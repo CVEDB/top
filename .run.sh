@@ -15,4 +15,4 @@ cat hecdql.md Top_Codeql1.md ed.md > Top_Codeql.md
 # Commit the changes and push to the remote repository
 git add README.md Top_Codeql.md
 git commit -m "Update $(date +%Y-%m-%d)"
-git push origin master
+git push origin main
