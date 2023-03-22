@@ -12,13 +12,13 @@
 ## 2023
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|320|2023-03-21T19:09:10Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
+|321|2023-03-22T00:01:54Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
 |473|2023-03-20T14:32:11Z|CVE-2023-21839|https://github.com/4ra1n/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
 |268|2023-03-16T12:56:36Z|CVE-2023-21752|https://github.com/Wh04m1001/CVE-2023-21752||
 |187|2023-03-19T21:17:55Z|CVE-2023-21608|https://github.com/hacksysteam/CVE-2023-21608|Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit|
 |169|2023-03-19T05:59:30Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
 |241|2023-03-18T00:35:07Z|CVE-2023-24055_PoC|https://github.com/alt3kx/CVE-2023-24055_PoC|CVE-2023-24055 PoC (KeePass 2.5x)|
-|230|2023-03-21T17:26:32Z|CVE-2023-23397-POC-Powershell|https://github.com/api0cradle/CVE-2023-23397-POC-Powershell||
+|231|2023-03-22T00:58:53Z|CVE-2023-23397-POC-Powershell|https://github.com/api0cradle/CVE-2023-23397-POC-Powershell||
 |128|2023-03-21T19:55:45Z|CVE-2023-23397_EXPLOIT_0DAY|https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY|Exploit for the CVE-2023-23397|
 |71|2023-03-16T08:44:11Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |139|2023-03-21T04:41:18Z|CVE-2023-0179-PoC|https://github.com/TurtleARM/CVE-2023-0179-PoC||
@@ -41,7 +41,7 @@
 |13|2023-03-21T14:27:46Z|CVE-2023-23397|https://github.com/ka7ana/CVE-2023-23397|Simple PoC in PowerShell for CVE-2023-23397|
 |13|2023-03-21T09:07:08Z|CVE-2023-21839|https://github.com/Firebasky/CVE-2023-21839|CVE-2023-21839工具|
 |5|2023-02-13T01:56:55Z|CVE-2023-0315|https://github.com/mhaskar/CVE-2023-0315|The official exploit for Froxlor Remote Code Execution CVE-2023-0315|
-|10|2023-03-17T15:32:56Z|CVE-2023-23752|https://github.com/z3n70/CVE-2023-23752|simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose|
+|4|2023-03-22T01:01:56Z|CVE-2023-23397|https://github.com/grn-bogo/CVE-2023-23397|Python script to create a message with the vulenrability properties set|
 ## 2022
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -111,7 +111,7 @@
 ## 2020
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|3696|2023-03-21T06:25:51Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|3697|2023-03-22T01:37:25Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
 |1645|2023-03-20T12:19:54Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |1561|2023-03-16T08:21:16Z|CVE-2020-1472|https://github.com/SecuraBV/CVE-2020-1472|Test tool for CVE-2020-1472|
 |1240|2023-03-18T21:12:43Z|CVE-2020-0796|https://github.com/danigargu/CVE-2020-0796|CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost|
@@ -146,7 +146,7 @@
 |---|---|---|---|---|
 |1645|2023-03-20T12:19:54Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |1760|2023-03-15T08:40:26Z|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
-|3696|2023-03-21T06:25:51Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|3697|2023-03-22T01:37:25Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
 |1134|2023-03-11T04:44:39Z|BlueKeep|https://github.com/Ekultek/BlueKeep|Proof of concept for CVE-2019-0708|
 |607|2023-03-14T01:50:50Z|CVE-2019-5736-PoC|https://github.com/Frichetten/CVE-2019-5736-PoC|PoC for CVE-2019-5736|
 |484|2023-02-28T09:25:25Z|CVE-2019-0708|https://github.com/n1xbyte/CVE-2019-0708|dump|
