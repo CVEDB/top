@@ -39,9 +39,9 @@
 |11|2023-03-17T15:50:58Z|CVE-2023-23752|https://github.com/WhiteOwl-Pub/CVE-2023-23752|Poc for CVE-2023-23752 (joomla CMS)|
 |16|2023-03-23T03:17:42Z|CVE-2023-23397|https://github.com/ka7ana/CVE-2023-23397|Simple PoC in PowerShell for CVE-2023-23397|
 |14|2023-03-23T12:10:28Z|CVE-2023-23488-PoC|https://github.com/r3nt0n/CVE-2023-23488-PoC|Unauthenticated SQL Injection - Paid Memberships Pro < 2.9.8 (WordPress Plugin)|
+|8|2023-03-23T20:02:31Z|CVE-2023-27532|https://github.com/horizon3ai/CVE-2023-27532|POC for Veeam Backup and Replication CVE-2023-27532|
 |13|2023-03-21T09:07:08Z|CVE-2023-21839|https://github.com/Firebasky/CVE-2023-21839|CVE-2023-21839工具|
 |9|2023-03-23T14:12:12Z|CVE-2023-23192|https://github.com/pinarsadioglu/CVE-2023-23192|CVE-2023-23192|
-|7|2023-03-23T18:32:31Z|CVE-2023-27532|https://github.com/horizon3ai/CVE-2023-27532|POC for Veeam Backup and Replication CVE-2023-27532|
 ## 2022
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -72,8 +72,8 @@
 |94|2023-03-09T11:35:41Z|CVE-2022-23131|https://github.com/jweny/CVE-2022-23131|cve-2022-23131 exp|
 |232|2023-02-23T12:44:11Z|CVE-2022-1388|https://github.com/horizon3ai/CVE-2022-1388|POC for CVE-2022-1388|
 |256|2023-03-23T09:37:45Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
-|194|2023-02-02T00:58:48Z|CVE-2022-27666|https://github.com/plummm/CVE-2022-27666|Exploit for CVE-2022-27666|
 |121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
+|194|2023-02-02T00:58:48Z|CVE-2022-27666|https://github.com/plummm/CVE-2022-27666|Exploit for CVE-2022-27666|
 |186|2023-03-12T10:00:15Z|CVE-2022-0778|https://github.com/drago-96/CVE-2022-0778|Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt|
 ## 2021
 |star|updated_at|name|url|des|
