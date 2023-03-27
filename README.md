@@ -40,8 +40,8 @@
 |60|2023-03-24T04:29:19Z|moc3ingbird|https://github.com/OpenL2D/moc3ingbird|MOC3ingbird Exploit for Live2D (CVE-2023-27566)|
 |46|2023-03-27T03:32:02Z|CVE-2023-21036|https://github.com/infobyte/CVE-2023-21036|Detection and sanitization for Acropalypse Now - CVE-2023-21036|
 |12|2023-03-24T11:53:45Z|CVE-2023-23752|https://github.com/WhiteOwl-Pub/CVE-2023-23752|Poc for CVE-2023-23752 (joomla CMS)|
+|19|2023-03-27T06:31:44Z|CVE-2023-23397|https://github.com/ka7ana/CVE-2023-23397|Simple PoC in PowerShell for CVE-2023-23397|
 |35|2023-03-22T13:27:22Z|jfrog-CVE-2023-25136-OpenSSH_Double-Free|https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free||
-|18|2023-03-26T23:22:34Z|CVE-2023-23397|https://github.com/ka7ana/CVE-2023-23397|Simple PoC in PowerShell for CVE-2023-23397|
 ## 2022
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -79,7 +79,7 @@
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |1774|2023-03-25T09:59:01Z|CVE-2021-4034|https://github.com/berdav/CVE-2021-4034|CVE-2021-4034 1day|
-|1463|2023-03-19T17:54:55Z|CVE-2021-40444|https://github.com/lockedbyte/CVE-2021-40444|CVE-2021-40444 PoC|
+|1462|2023-03-27T06:44:45Z|CVE-2021-40444|https://github.com/lockedbyte/CVE-2021-40444|CVE-2021-40444 PoC|
 |1195|2023-03-25T03:33:38Z|noPac|https://github.com/cube0x0/noPac|CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.|
 |1672|2023-03-23T15:16:47Z|CVE-2021-1675|https://github.com/cube0x0/CVE-2021-1675|C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527|
 |958|2023-03-23T04:40:32Z|CVE-2021-4034|https://github.com/arthepsy/CVE-2021-4034|PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)|
@@ -100,8 +100,8 @@
 |137|2023-03-21T09:10:49Z|exprolog|https://github.com/herwonowr/exprolog|ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)|
 |206|2022-12-04T11:28:17Z|CVE-2021-41773|https://github.com/blasty/CVE-2021-41773|CVE-2021-41773 playground|
 |342|2023-03-15T08:56:59Z|CVE-2021-44228_scanner|https://github.com/CERTCC/CVE-2021-44228_scanner|Scanners for Jar files that may be vulnerable to CVE-2021-44228|
-|320|2023-03-13T18:46:29Z|Grafana-CVE-2021-43798|https://github.com/jas502n/Grafana-CVE-2021-43798|Grafana Unauthorized arbitrary file reading vulnerability|
 |164|2023-03-20T07:53:36Z|ProxyVulns|https://github.com/hosch3n/ProxyVulns|[ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.|
+|320|2023-03-13T18:46:29Z|Grafana-CVE-2021-43798|https://github.com/jas502n/Grafana-CVE-2021-43798|Grafana Unauthorized arbitrary file reading vulnerability|
 |223|2023-03-23T00:47:38Z|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
 |139|2022-12-08T12:21:45Z|CVE-2021-41773_CVE-2021-42013|https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013|CVE-2021-41773 CVE-2021-42013漏洞批量检测工具|
 |335|2023-03-03T23:04:45Z|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
@@ -171,8 +171,8 @@
 |347|2023-02-18T05:28:25Z|bluekeep_CVE-2019-0708_poc_to_exploit|https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit|An Attempt to Port BlueKeep PoC from @Ekultek to actual exploits|
 |171|2023-03-06T08:26:09Z|CVE-2019-3396_EXP|https://github.com/Yt1g3r/CVE-2019-3396_EXP|CVE-2019-3396 confluence SSTI RCE|
 |204|2023-03-23T05:40:33Z|cve-2019-5736-poc|https://github.com/q3k/cve-2019-5736-poc|Unweaponized Proof of Concept for CVE-2019-5736 (Docker escape)|
-|183|2023-03-26T05:22:49Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |292|2022-08-26T13:16:46Z|bluekeep|https://github.com/0xeb-bp/bluekeep|Public work for CVE-2019-0708|
+|183|2023-03-26T05:22:49Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |297|2022-12-17T16:04:03Z|cve-2019-1003000-jenkins-rce-poc|https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc|Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)|
 ## 2018
 |star|updated_at|name|url|des|
