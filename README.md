@@ -13,12 +13,12 @@
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |335|2023-03-27T14:54:34Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
-|476|2023-03-27T05:11:58Z|CVE-2023-21839|https://github.com/4ra1n/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
+|478|2023-03-28T02:28:19Z|CVE-2023-21839|https://github.com/4ra1n/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
 |270|2023-03-27T03:39:13Z|CVE-2023-21752|https://github.com/Wh04m1001/CVE-2023-21752||
 |187|2023-03-19T21:17:55Z|CVE-2023-21608|https://github.com/hacksysteam/CVE-2023-21608|Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit|
 |242|2023-03-23T12:29:03Z|CVE-2023-24055_PoC|https://github.com/alt3kx/CVE-2023-24055_PoC|CVE-2023-24055 PoC (KeePass 2.5x)|
 |170|2023-03-25T02:07:21Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
-|261|2023-03-27T20:44:20Z|CVE-2023-23397-POC-Powershell|https://github.com/api0cradle/CVE-2023-23397-POC-Powershell||
+|263|2023-03-28T02:13:47Z|CVE-2023-23397-POC-Powershell|https://github.com/api0cradle/CVE-2023-23397-POC-Powershell||
 |134|2023-03-24T12:09:11Z|CVE-2023-23397_EXPLOIT_0DAY|https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY|Exploit for the CVE-2023-23397|
 |72|2023-03-22T09:06:54Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |144|2023-03-27T13:31:26Z|CVE-2023-27326|https://github.com/Impalabs/CVE-2023-27326|VM Escape for Parallels Desktop <18.1.1|
@@ -54,7 +54,7 @@
 |531|2023-03-26T20:30:06Z|OpenSSL-2022|https://github.com/NCSC-NL/OpenSSL-2022|Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3|
 |354|2023-03-21T19:08:40Z|CVE-2022-0185|https://github.com/Crusaders-of-Rust/CVE-2022-0185|CVE-2022-0185|
 |529|2023-03-27T10:34:31Z|CVE-2022-23222|https://github.com/tr3ee/CVE-2022-23222|CVE-2022-23222: Linux Kernel eBPF Local Privilege Escalation|
-|206|2023-03-18T05:52:15Z|Spring-Cloud-Gateway-CVE-2022-22947|https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947|CVE-2022-22947|
+|207|2023-03-28T02:33:37Z|Spring-Cloud-Gateway-CVE-2022-22947|https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947|CVE-2022-22947|
 |365|2023-01-12T11:43:26Z|CVE-2022-21907|https://github.com/ZZ-SOCMAP/CVE-2022-21907|HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907|
 |421|2023-03-27T00:28:00Z|CVE-2022-2588|https://github.com/Markakd/CVE-2022-2588|exploit for CVE-2022-2588|
 |346|2023-03-23T03:39:44Z|CVE-2022-29464|https://github.com/hakivvi/CVE-2022-29464|WSO2 RCE (CVE-2022-29464) exploit and writeup.|
@@ -64,7 +64,7 @@
 |423|2023-03-03T20:32:11Z|CVE-2022-27254|https://github.com/nonamecoder/CVE-2022-27254|PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)|
 |239|2023-03-23T07:32:10Z|CVE-2022-0847|https://github.com/r1is/CVE-2022-0847|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”|
 |289|2023-03-02T11:36:05Z|CVE-2022-21971|https://github.com/0vercl0k/CVE-2022-21971|PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"|
-|251|2023-03-25T20:23:46Z|CVE-2022-39952|https://github.com/horizon3ai/CVE-2022-39952|POC for CVE-2022-39952|
+|252|2023-03-28T02:09:08Z|CVE-2022-39952|https://github.com/horizon3ai/CVE-2022-39952|POC for CVE-2022-39952|
 |383|2023-03-21T01:47:23Z|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
 |283|2023-03-23T05:59:57Z|Spring4Shell-POC|https://github.com/reznok/Spring4Shell-POC|Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit|
 |286|2023-03-16T04:13:43Z|VMware-CVE-2022-22954|https://github.com/sherlocksecurity/VMware-CVE-2022-22954|POC for VMWARE CVE-2022-22954|
@@ -232,7 +232,7 @@
 |82|2023-03-09T07:06:53Z|CVE-2017-8759|https://github.com/Lz1y/CVE-2017-8759|CVE-2017-8759|
 |164|2023-02-25T01:03:53Z|RTF_11882_0802|https://github.com/Ridter/RTF_11882_0802|PoC for CVE-2018-0802 And CVE-2017-11882|
 |129|2023-02-28T07:16:39Z|cve-2017-7269|https://github.com/zcgonvh/cve-2017-7269|fixed msf module for cve-2017-7269|
-|178|2023-03-12T01:47:19Z|jboss-_CVE-2017-12149|https://github.com/yunxu1/jboss-_CVE-2017-12149|CVE-2017-12149 jboss反序列化 可回显|
+|179|2023-03-28T01:43:01Z|jboss-_CVE-2017-12149|https://github.com/yunxu1/jboss-_CVE-2017-12149|CVE-2017-12149 jboss反序列化 可回显|
 |62|2023-03-06T00:56:46Z|iis6-exploit-2017-CVE-2017-7269|https://github.com/g0rx/iis6-exploit-2017-CVE-2017-7269|iis6 exploit 2017 CVE-2017-7269|
 |98|2022-11-17T14:25:55Z|CVE-2017-11882-metasploit|https://github.com/0x09AL/CVE-2017-11882-metasploit|This is a Metasploit module which exploits CVE-2017-11882 using the POC released here : https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about.|
 |413|2023-03-23T15:21:41Z|struts-pwn|https://github.com/mazen160/struts-pwn|An exploit for Apache Struts CVE-2017-5638|
