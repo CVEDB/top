@@ -12,8 +12,8 @@
 ## 2023
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|335|2023-03-27T14:54:34Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
-|479|2023-03-28T03:51:09Z|CVE-2023-21839|https://github.com/4ra1n/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
+|337|2023-03-28T06:24:19Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
+|480|2023-03-28T05:23:41Z|CVE-2023-21839|https://github.com/4ra1n/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
 |270|2023-03-27T03:39:13Z|CVE-2023-21752|https://github.com/Wh04m1001/CVE-2023-21752||
 |187|2023-03-19T21:17:55Z|CVE-2023-21608|https://github.com/hacksysteam/CVE-2023-21608|Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit|
 |242|2023-03-23T12:29:03Z|CVE-2023-24055_PoC|https://github.com/alt3kx/CVE-2023-24055_PoC|CVE-2023-24055 PoC (KeePass 2.5x)|
@@ -23,13 +23,13 @@
 |75|2023-03-28T04:44:27Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |144|2023-03-27T13:31:26Z|CVE-2023-27326|https://github.com/Impalabs/CVE-2023-27326|VM Escape for Parallels Desktop <18.1.1|
 |139|2023-03-21T04:41:18Z|CVE-2023-0179-PoC|https://github.com/TurtleARM/CVE-2023-0179-PoC||
-|409|2023-03-27T18:44:27Z|TOP|https://github.com/hktalent/TOP|TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things|
 |88|2023-03-24T10:42:57Z|CVE-2023-25136|https://github.com/Christbowel/CVE-2023-25136|OpenSSH 9.1 vulnerability mass scan and exploit|
+|409|2023-03-27T18:44:27Z|TOP|https://github.com/hktalent/TOP|TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things|
 |79|2023-03-24T09:11:29Z|CVE-2023-0669|https://github.com/0xf4n9x/CVE-2023-0669|CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.|
 |94|2023-03-24T12:07:32Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
 |63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
 |70|2023-03-24T11:08:39Z|CVE-2023-22809-sudoedit-privesc|https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc|A script to automate privilege escalation with CVE-2023-22809 vulnerability|
-|59|2023-03-28T03:49:52Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
+|60|2023-03-28T05:35:38Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
 |68|2023-03-07T13:02:21Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
 |45|2023-03-28T03:04:08Z|CVE-2023-23397|https://github.com/Trackflaw/CVE-2023-23397|Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email.|
 |23|2023-03-28T03:15:22Z|CVE-2023-28432|https://github.com/Mr-xn/CVE-2023-28432|CVE-2023-28434 nuclei templates|
@@ -129,8 +129,8 @@
 |335|2023-03-07T08:20:53Z|CVE-2020-0688|https://github.com/zcgonvh/CVE-2020-0688|Exploit and detect tools for CVE-2020-0688|
 |299|2023-03-13T12:39:34Z|CVE-2020-0796-PoC|https://github.com/eerykitty/CVE-2020-0796-PoC|PoC for triggering buffer overflow via CVE-2020-0796|
 |111|2023-03-12T20:36:28Z|CVE-2020-11651-poc|https://github.com/jasperla/CVE-2020-11651-poc|PoC exploit of CVE-2020-11651 and CVE-2020-11652|
-|160|2023-01-16T14:32:10Z|cve-2020-0688|https://github.com/random-robbie/cve-2020-0688|cve-2020-0688|
 |879|2023-03-20T17:43:38Z|CurveBall|https://github.com/ly4k/CurveBall|PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)|
+|160|2023-01-16T14:32:10Z|cve-2020-0688|https://github.com/random-robbie/cve-2020-0688|cve-2020-0688|
 |279|2023-03-20T09:29:27Z|CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|Cnvd-2020-10487 / cve-2020-1938, scanner tool|
 |84|2023-03-05T02:51:05Z|dnspooq|https://github.com/knqyf263/dnspooq|DNSpooq - dnsmasq cache poisoning (CVE-2020-25686, CVE-2020-25684, CVE-2020-25685)|
 |254|2023-03-03T00:44:20Z|BlueGate|https://github.com/ly4k/BlueGate|PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE|
@@ -158,8 +158,8 @@
 |753|2023-03-25T02:02:01Z|esp32_esp8266_attacks|https://github.com/Matheus-Garbelini/esp32_esp8266_attacks|Proof of Concept of ESP32/8266 Wi-Fi vulnerabilties (CVE-2019-12586, CVE-2019-12587, CVE-2019-12588)|
 |359|2023-02-09T06:54:25Z|CVE-2019-11510|https://github.com/projectzeroindia/CVE-2019-11510|Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)|
 |372|2023-02-16T17:00:39Z|CVE-2019-19781|https://github.com/projectzeroindia/CVE-2019-19781|Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]|
-|605|2023-02-20T07:19:31Z|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
 |298|2023-03-12T10:31:10Z|CVE-2019-13272|https://github.com/jas502n/CVE-2019-13272|Linux 4.10 < 5.1.17 PTRACE_TRACEME local root|
+|605|2023-02-20T07:19:31Z|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
 |133|2022-12-16T10:14:29Z|CVE-2019-0604|https://github.com/linhlhq/CVE-2019-0604|CVE-2019-0604|
 |238|2023-01-31T09:30:16Z|CVE-2019-0841|https://github.com/rogue-kdc/CVE-2019-0841|PoC code for CVE-2019-0841 Privilege Escalation vulnerability|
 |879|2023-03-27T19:21:48Z|rdpscan|https://github.com/robertdavidgraham/rdpscan|A quick scanner for the CVE-2019-0708 "BlueKeep" vulnerability.|
@@ -171,8 +171,8 @@
 |347|2023-02-18T05:28:25Z|bluekeep_CVE-2019-0708_poc_to_exploit|https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit|An Attempt to Port BlueKeep PoC from @Ekultek to actual exploits|
 |171|2023-03-06T08:26:09Z|CVE-2019-3396_EXP|https://github.com/Yt1g3r/CVE-2019-3396_EXP|CVE-2019-3396 confluence SSTI RCE|
 |204|2023-03-23T05:40:33Z|cve-2019-5736-poc|https://github.com/q3k/cve-2019-5736-poc|Unweaponized Proof of Concept for CVE-2019-5736 (Docker escape)|
-|183|2023-03-26T05:22:49Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |292|2022-08-26T13:16:46Z|bluekeep|https://github.com/0xeb-bp/bluekeep|Public work for CVE-2019-0708|
+|183|2023-03-26T05:22:49Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |297|2022-12-17T16:04:03Z|cve-2019-1003000-jenkins-rce-poc|https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc|Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)|
 ## 2018
 |star|updated_at|name|url|des|
@@ -239,7 +239,7 @@
 |139|2023-03-25T10:29:57Z|CVE-2017-10271|https://github.com/c0mmand3rOpSec/CVE-2017-10271|WebLogic Exploit|
 |56|2022-06-12T07:10:35Z|Exploit-Development|https://github.com/wetw0rk/Exploit-Development|CVE-2020-8012, CVE-2016-10709, CVE-2017-17099, CVE-2017-18047, CVE-2019-1003000, CVE-2018-1999002|
 |266|2023-01-10T09:29:05Z|CVE-2018-0802|https://github.com/rxwx/CVE-2018-0802|PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882)|
-|102|2023-03-09T09:07:34Z|CVE-2017-0781|https://github.com/ojasookert/CVE-2017-0781|Blueborne CVE-2017-0781 Android heap overflow vulnerability|
+|49|2022-11-06T13:48:59Z|CVE-2017-1000353|https://github.com/vulhub/CVE-2017-1000353|jenkins CVE-2017-1000353 POC|
 ## 2016
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -263,8 +263,8 @@
 |155|2022-10-25T20:39:51Z|BadKernel|https://github.com/secmob/BadKernel|Full exploit of CVE-2016-6754(BadKernel) and slide of SyScan360 2016|
 |94|2022-09-19T09:19:56Z|PegasusX|https://github.com/jndok/PegasusX|OS X 10.11.6 LPE PoC for CVE-2016-4655 / CVE-2016-4656|
 |96|2023-02-22T05:29:39Z|jscpwn|https://github.com/saelo/jscpwn|PoC exploit for CVE-2016-4622|
-|53|2022-11-23T12:19:24Z|exploit-CVE-2016-6515|https://github.com/opsxcq/exploit-CVE-2016-6515|OpenSSH remote DOS exploit and vulnerable container|
 |56|2022-06-12T07:10:35Z|Exploit-Development|https://github.com/wetw0rk/Exploit-Development|CVE-2020-8012, CVE-2016-10709, CVE-2017-17099, CVE-2017-18047, CVE-2019-1003000, CVE-2018-1999002|
+|53|2022-11-23T12:19:24Z|exploit-CVE-2016-6515|https://github.com/opsxcq/exploit-CVE-2016-6515|OpenSSH remote DOS exploit and vulnerable container|
 |47|2022-06-20T08:11:35Z|cve-2016-0040|https://github.com/Rootkitsmm-zz/cve-2016-0040|Exploiting CVE-2016-0040   uninitialized pointer|
 |52|2022-12-07T05:23:25Z|cve-2016-2431|https://github.com/laginimaineb/cve-2016-2431|Qualcomm TrustZone kernel privilege escalation|
 |51|2023-02-17T10:04:08Z|CVE-2016-3308|https://github.com/55-AA/CVE-2016-3308|Use CVE-2016-3308 corrupt win32k desktop heap|
@@ -278,7 +278,7 @@
 |---|---|---|---|---|
 |546|2023-03-14T19:59:25Z|CVE-2015-7547|https://github.com/fjserna/CVE-2015-7547|Proof of concept for CVE-2015-7547|
 |286|2023-03-06T00:39:47Z|CVE-2015-1701|https://github.com/hfiref0x/CVE-2015-1701|Win32k LPE vulnerability used in APT attack|
-|266|2023-02-03T23:23:32Z|iovyroot|https://github.com/dosomder/iovyroot|CVE-2015-1805 root tool|
+|267|2023-03-28T06:00:11Z|iovyroot|https://github.com/dosomder/iovyroot|CVE-2015-1805 root tool|
 |199|2023-03-11T09:09:03Z|cve-2015-1538-1|https://github.com/jduck/cve-2015-1538-1|An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution|
 |130|2023-01-29T13:47:29Z|CVE-2015-3636|https://github.com/fi01/CVE-2015-3636|PoC code for 32 bit Android OS|
 |397|2023-02-25T07:13:12Z|tpwn|https://github.com/kpwn/tpwn|xnu local privilege escalation via cve-2015-???? & cve-2015-???? for 10.10.5, 0day at the time | poc or gtfo|
