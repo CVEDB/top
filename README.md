@@ -27,10 +27,10 @@
 |411|2023-03-28T11:58:20Z|TOP|https://github.com/hktalent/TOP|TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things|
 |79|2023-03-24T09:11:29Z|CVE-2023-0669|https://github.com/0xf4n9x/CVE-2023-0669|CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.|
 |94|2023-03-24T12:07:32Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
-|69|2023-03-28T14:55:51Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
 |63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
+|63|2023-03-29T00:39:26Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
+|69|2023-03-28T14:55:51Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
 |70|2023-03-24T11:08:39Z|CVE-2023-22809-sudoedit-privesc|https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc|A script to automate privilege escalation with CVE-2023-22809 vulnerability|
-|62|2023-03-28T15:58:19Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
 |51|2023-03-28T21:35:23Z|CVE-2023-23397|https://github.com/Trackflaw/CVE-2023-23397|Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email.|
 |24|2023-03-28T10:07:50Z|CVE-2023-28432|https://github.com/Mr-xn/CVE-2023-28432|CVE-2023-28434 nuclei templates|
 |32|2023-03-28T15:05:07Z|CVE-2023-27532|https://github.com/horizon3ai/CVE-2023-27532|POC for Veeam Backup and Replication CVE-2023-27532|
@@ -40,7 +40,7 @@
 |20|2023-03-28T21:39:07Z|CVE-2023-23397|https://github.com/ka7ana/CVE-2023-23397|Simple PoC in PowerShell for CVE-2023-23397|
 |50|2023-03-28T21:07:40Z|CVE-2023-21036|https://github.com/infobyte/CVE-2023-21036|Detection and sanitization for Acropalypse Now - CVE-2023-21036|
 |60|2023-03-24T04:29:19Z|moc3ingbird|https://github.com/OpenL2D/moc3ingbird|MOC3ingbird Exploit for Live2D (CVE-2023-27566)|
-|25|2023-03-28T16:36:31Z|exploit-CVE-2023-23752|https://github.com/Acceis/exploit-CVE-2023-23752|Joomla! < 4.2.8 - Unauthenticated information disclosure|
+|26|2023-03-28T23:53:08Z|exploit-CVE-2023-23752|https://github.com/Acceis/exploit-CVE-2023-23752|Joomla! < 4.2.8 - Unauthenticated information disclosure|
 |12|2023-03-24T11:53:45Z|CVE-2023-23752|https://github.com/WhiteOwl-Pub/CVE-2023-23752|Poc for CVE-2023-23752 (joomla CMS)|
 ## 2022
 |star|updated_at|name|url|des|
@@ -72,9 +72,9 @@
 |94|2023-03-09T11:35:41Z|CVE-2022-23131|https://github.com/jweny/CVE-2022-23131|cve-2022-23131 exp|
 |232|2023-02-23T12:44:11Z|CVE-2022-1388|https://github.com/horizon3ai/CVE-2022-1388|POC for CVE-2022-1388|
 |256|2023-03-23T09:37:45Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
-|121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
 |186|2023-03-28T18:22:16Z|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
 |194|2023-02-02T00:58:48Z|CVE-2022-27666|https://github.com/plummm/CVE-2022-27666|Exploit for CVE-2022-27666|
+|121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
 ## 2021
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -105,8 +105,8 @@
 |223|2023-03-28T13:35:39Z|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
 |139|2022-12-08T12:21:45Z|CVE-2021-41773_CVE-2021-42013|https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013|CVE-2021-41773 CVE-2021-42013漏洞批量检测工具|
 |335|2023-03-03T23:04:45Z|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
-|432|2023-02-19T07:14:03Z|log4j-finder|https://github.com/fox-it/log4j-finder|Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)|
 |233|2023-03-28T13:36:24Z|laravel-exploits|https://github.com/ambionics/laravel-exploits|Exploit for CVE-2021-3129|
+|432|2023-02-19T07:14:03Z|log4j-finder|https://github.com/fox-it/log4j-finder|Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)|
 |297|2023-03-20T09:00:12Z|CVE-2021-26084_Confluence|https://github.com/h3v0x/CVE-2021-26084_Confluence|Confluence Server Webwork OGNL injection|
 ## 2020
 |star|updated_at|name|url|des|
@@ -169,10 +169,10 @@
 |260|2023-03-06T14:58:17Z|CVE-2019-11932|https://github.com/dorkerdevil/CVE-2019-11932| double-free bug in WhatsApp exploit poc|
 |232|2023-03-28T22:31:20Z|CVE-2019-1040|https://github.com/Ridter/CVE-2019-1040|CVE-2019-1040 with Exchange|
 |347|2023-02-18T05:28:25Z|bluekeep_CVE-2019-0708_poc_to_exploit|https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit|An Attempt to Port BlueKeep PoC from @Ekultek to actual exploits|
-|171|2023-03-06T08:26:09Z|CVE-2019-3396_EXP|https://github.com/Yt1g3r/CVE-2019-3396_EXP|CVE-2019-3396 confluence SSTI RCE|
 |205|2023-03-28T14:48:30Z|cve-2019-5736-poc|https://github.com/q3k/cve-2019-5736-poc|Unweaponized Proof of Concept for CVE-2019-5736 (Docker escape)|
-|292|2022-08-26T13:16:46Z|bluekeep|https://github.com/0xeb-bp/bluekeep|Public work for CVE-2019-0708|
+|171|2023-03-06T08:26:09Z|CVE-2019-3396_EXP|https://github.com/Yt1g3r/CVE-2019-3396_EXP|CVE-2019-3396 confluence SSTI RCE|
 |183|2023-03-26T05:22:49Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
+|292|2022-08-26T13:16:46Z|bluekeep|https://github.com/0xeb-bp/bluekeep|Public work for CVE-2019-0708|
 |297|2022-12-17T16:04:03Z|cve-2019-1003000-jenkins-rce-poc|https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc|Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)|
 ## 2018
 |star|updated_at|name|url|des|
@@ -183,13 +183,13 @@
 |502|2023-02-05T07:41:24Z|CVE-2018-15473-Exploit|https://github.com/Rhynorater/CVE-2018-15473-Exploit|Exploit written in Python for CVE-2018-15473 with threading and export formats|
 |482|2023-03-08T08:37:29Z|CVE-2018-9995_dvr_credentials|https://github.com/ezelf/CVE-2018-9995_dvr_credentials|(CVE-2018-9995) Get DVR Credentials|
 |355|2023-02-27T06:12:23Z|Exchange2domain|https://github.com/Ridter/Exchange2domain|CVE-2018-8581|
-|249|2023-02-12T08:42:50Z|CVE-2018-13379|https://github.com/milo2012/CVE-2018-13379|CVE-2018-13379|
 |488|2023-03-15T23:21:03Z|CVE-2018-10933|https://github.com/blacknbunny/CVE-2018-10933|Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)|
+|249|2023-02-12T08:42:50Z|CVE-2018-13379|https://github.com/milo2012/CVE-2018-13379|CVE-2018-13379|
 |266|2023-01-10T09:29:05Z|CVE-2018-0802|https://github.com/rxwx/CVE-2018-0802|PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882)|
 |404|2023-03-06T00:38:43Z|CVE-2018-8897|https://github.com/can1357/CVE-2018-8897|Arbitrary code execution with kernel privileges using CVE-2018-8897.|
 |293|2023-03-20T20:34:45Z|CVE-2018-8120|https://github.com/alpha1ab/CVE-2018-8120|CVE-2018-8120 Exploit for Win2003 Win2008 WinXP Win7 |
-|332|2023-03-28T14:53:13Z|CVE-2018-8581|https://github.com/WyAtu/CVE-2018-8581|CVE-2018-8581 | Microsoft Exchange Server Elevation of Privilege Vulnerability|
 |342|2022-12-12T15:30:26Z|CVE-2018-7600|https://github.com/a2u/CVE-2018-7600|💀Proof-of-Concept for CVE-2018-7600 Drupal SA-CORE-2018-002|
+|332|2023-03-28T14:53:13Z|CVE-2018-8581|https://github.com/WyAtu/CVE-2018-8581|CVE-2018-8581 | Microsoft Exchange Server Elevation of Privilege Vulnerability|
 |79|2022-07-29T07:40:46Z|CVE-2018-2628|https://github.com/shengqi158/CVE-2018-2628|CVE-2018-2628 & CVE-2018-2893|
 |483|2023-03-09T08:07:45Z|WinboxPoC|https://github.com/BasuCert/WinboxPoC|Proof of Concept of Winbox Critical Vulnerability (CVE-2018-14847)|
 |137|2022-08-04T05:22:18Z|CVE-2018-8174_EXP|https://github.com/Yt1g3r/CVE-2018-8174_EXP|CVE-2018-8174_python|
@@ -206,7 +206,7 @@
 |104|2023-03-18T17:51:30Z|CVE-2018-7600|https://github.com/pimps/CVE-2018-7600|Exploit for Drupal 7 <= 7.57 CVE-2018-7600|
 |220|2023-01-02T16:14:21Z|poc_CVE-2018-1002105|https://github.com/evict/poc_CVE-2018-1002105|PoC for CVE-2018-1002105.|
 |258|2023-03-16T21:59:19Z|credssp|https://github.com/preempt/credssp|A code demonstrating CVE-2018-0886|
-|133|2022-11-09T18:00:34Z|CVE-2018-2894|https://github.com/LandGrey/CVE-2018-2894|CVE-2018-2894 WebLogic Unrestricted File Upload Lead To RCE Check Script|
+|102|2023-03-21T07:03:47Z|CVE-2018-2893|https://github.com/pyn3rd/CVE-2018-2893|CVE-2018-2893-PoC|
 ## 2017
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -239,7 +239,7 @@
 |139|2023-03-25T10:29:57Z|CVE-2017-10271|https://github.com/c0mmand3rOpSec/CVE-2017-10271|WebLogic Exploit|
 |56|2022-06-12T07:10:35Z|Exploit-Development|https://github.com/wetw0rk/Exploit-Development|CVE-2020-8012, CVE-2016-10709, CVE-2017-17099, CVE-2017-18047, CVE-2019-1003000, CVE-2018-1999002|
 |266|2023-01-10T09:29:05Z|CVE-2018-0802|https://github.com/rxwx/CVE-2018-0802|PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882)|
-|102|2023-03-09T09:07:34Z|CVE-2017-0781|https://github.com/ojasookert/CVE-2017-0781|Blueborne CVE-2017-0781 Android heap overflow vulnerability|
+|49|2022-11-06T13:48:59Z|CVE-2017-1000353|https://github.com/vulhub/CVE-2017-1000353|jenkins CVE-2017-1000353 POC|
 ## 2016
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
