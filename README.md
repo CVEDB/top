@@ -23,16 +23,16 @@
 |75|2023-03-28T04:44:27Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |145|2023-03-29T03:28:15Z|CVE-2023-27326|https://github.com/Impalabs/CVE-2023-27326|VM Escape for Parallels Desktop <18.1.1|
 |140|2023-03-30T01:41:26Z|CVE-2023-0179-PoC|https://github.com/TurtleARM/CVE-2023-0179-PoC||
-|412|2023-03-29T04:58:39Z|TOP|https://github.com/hktalent/TOP|TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things|
 |88|2023-03-24T10:42:57Z|CVE-2023-25136|https://github.com/Christbowel/CVE-2023-25136|OpenSSH 9.1 vulnerability mass scan and exploit|
+|412|2023-03-29T04:58:39Z|TOP|https://github.com/hktalent/TOP|TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things|
 |77|2023-03-30T11:50:08Z|CVE-2023-22809-sudoedit-privesc|https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc|A script to automate privilege escalation with CVE-2023-22809 vulnerability|
 |80|2023-03-29T10:39:32Z|CVE-2023-0669|https://github.com/0xf4n9x/CVE-2023-0669|CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.|
 |61|2023-03-30T14:12:37Z|CVE-2023-23397|https://github.com/Trackflaw/CVE-2023-23397|Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email.|
-|94|2023-03-24T12:07:32Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
 |63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
+|94|2023-03-24T12:07:32Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
 |69|2023-03-28T14:55:51Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
 |64|2023-03-30T09:52:13Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
-|106|2023-03-30T14:11:06Z|evil_minio|https://github.com/AbelChe/evil_minio|EXP for CVE-2023-28434 MinIO unauthorized to RCE|
+|110|2023-03-30T14:47:18Z|evil_minio|https://github.com/AbelChe/evil_minio|EXP for CVE-2023-28434 MinIO unauthorized to RCE|
 |32|2023-03-29T13:13:02Z|CVE-2023-27532|https://github.com/horizon3ai/CVE-2023-27532|POC for Veeam Backup and Replication CVE-2023-27532|
 |25|2023-03-30T08:07:00Z|CVE-2023-28432|https://github.com/Mr-xn/CVE-2023-28432|CVE-2023-28434 nuclei templates|
 |54|2023-03-23T04:35:27Z|CVE-2023-21716|https://github.com/gyaansastra/CVE-2023-21716|A vulnerability within Microsoft Office's wwlib allows attackers to achieve remote code execution with the privileges of the victim that opens a malicious RTF document. The attacker could deliver this file as an email attachment (or other means).|
@@ -67,14 +67,14 @@
 |252|2023-03-29T14:21:47Z|CVE-2022-39952|https://github.com/horizon3ai/CVE-2022-39952|POC for CVE-2022-39952|
 |383|2023-03-21T01:47:23Z|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
 |282|2023-03-28T12:39:56Z|Spring4Shell-POC|https://github.com/reznok/Spring4Shell-POC|Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit|
-|110|2023-03-30T10:54:33Z|CVE-2022-22963|https://github.com/dinosn/CVE-2022-22963|CVE-2022-22963 PoC |
+|111|2023-03-30T14:52:10Z|CVE-2022-22963|https://github.com/dinosn/CVE-2022-22963|CVE-2022-22963 PoC |
 |285|2023-03-28T12:39:51Z|VMware-CVE-2022-22954|https://github.com/sherlocksecurity/VMware-CVE-2022-22954|POC for VMWARE CVE-2022-22954|
 |94|2023-03-09T11:35:41Z|CVE-2022-23131|https://github.com/jweny/CVE-2022-23131|cve-2022-23131 exp|
 |232|2023-02-23T12:44:11Z|CVE-2022-1388|https://github.com/horizon3ai/CVE-2022-1388|POC for CVE-2022-1388|
 |256|2023-03-23T09:37:45Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
 |186|2023-03-28T18:22:16Z|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
-|121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
 |194|2023-02-02T00:58:48Z|CVE-2022-27666|https://github.com/plummm/CVE-2022-27666|Exploit for CVE-2022-27666|
+|121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
 ## 2021
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -95,8 +95,8 @@
 |1557|2023-03-29T07:13:57Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
 |1052|2023-03-30T09:18:28Z|log4shell-vulnerable-app|https://github.com/christophetd/log4shell-vulnerable-app|Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).|
 |430|2023-02-17T21:09:51Z|CVE-2021-3156|https://github.com/stong/CVE-2021-3156|PoC for CVE-2021-3156 (sudo heap overflow)|
-|333|2023-03-22T08:50:11Z|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |552|2023-03-29T11:34:48Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
+|333|2023-03-22T08:50:11Z|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |136|2023-03-28T13:37:56Z|exprolog|https://github.com/herwonowr/exprolog|ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)|
 |205|2023-03-29T02:32:16Z|CVE-2021-41773|https://github.com/blasty/CVE-2021-41773|CVE-2021-41773 playground|
 |342|2023-03-15T08:56:59Z|CVE-2021-44228_scanner|https://github.com/CERTCC/CVE-2021-44228_scanner|Scanners for Jar files that may be vulnerable to CVE-2021-44228|
@@ -129,8 +129,8 @@
 |335|2023-03-07T08:20:53Z|CVE-2020-0688|https://github.com/zcgonvh/CVE-2020-0688|Exploit and detect tools for CVE-2020-0688|
 |299|2023-03-13T12:39:34Z|CVE-2020-0796-PoC|https://github.com/eerykitty/CVE-2020-0796-PoC|PoC for triggering buffer overflow via CVE-2020-0796|
 |111|2023-03-12T20:36:28Z|CVE-2020-11651-poc|https://github.com/jasperla/CVE-2020-11651-poc|PoC exploit of CVE-2020-11651 and CVE-2020-11652|
-|160|2023-01-16T14:32:10Z|cve-2020-0688|https://github.com/random-robbie/cve-2020-0688|cve-2020-0688|
 |879|2023-03-20T17:43:38Z|CurveBall|https://github.com/ly4k/CurveBall|PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)|
+|160|2023-01-16T14:32:10Z|cve-2020-0688|https://github.com/random-robbie/cve-2020-0688|cve-2020-0688|
 |280|2023-03-28T10:45:59Z|CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|Cnvd-2020-10487 / cve-2020-1938, scanner tool|
 |84|2023-03-05T02:51:05Z|dnspooq|https://github.com/knqyf263/dnspooq|DNSpooq - dnsmasq cache poisoning (CVE-2020-25686, CVE-2020-25684, CVE-2020-25685)|
 |254|2023-03-03T00:44:20Z|BlueGate|https://github.com/ly4k/BlueGate|PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE|
@@ -158,8 +158,8 @@
 |753|2023-03-25T02:02:01Z|esp32_esp8266_attacks|https://github.com/Matheus-Garbelini/esp32_esp8266_attacks|Proof of Concept of ESP32/8266 Wi-Fi vulnerabilties (CVE-2019-12586, CVE-2019-12587, CVE-2019-12588)|
 |359|2023-02-09T06:54:25Z|CVE-2019-11510|https://github.com/projectzeroindia/CVE-2019-11510|Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)|
 |372|2023-02-16T17:00:39Z|CVE-2019-19781|https://github.com/projectzeroindia/CVE-2019-19781|Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]|
-|298|2023-03-12T10:31:10Z|CVE-2019-13272|https://github.com/jas502n/CVE-2019-13272|Linux 4.10 < 5.1.17 PTRACE_TRACEME local root|
 |605|2023-02-20T07:19:31Z|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
+|298|2023-03-12T10:31:10Z|CVE-2019-13272|https://github.com/jas502n/CVE-2019-13272|Linux 4.10 < 5.1.17 PTRACE_TRACEME local root|
 |133|2022-12-16T10:14:29Z|CVE-2019-0604|https://github.com/linhlhq/CVE-2019-0604|CVE-2019-0604|
 |238|2023-01-31T09:30:16Z|CVE-2019-0841|https://github.com/rogue-kdc/CVE-2019-0841|PoC code for CVE-2019-0841 Privilege Escalation vulnerability|
 |879|2023-03-27T19:21:48Z|rdpscan|https://github.com/robertdavidgraham/rdpscan|A quick scanner for the CVE-2019-0708 "BlueKeep" vulnerability.|
@@ -169,8 +169,8 @@
 |260|2023-03-06T14:58:17Z|CVE-2019-11932|https://github.com/dorkerdevil/CVE-2019-11932| double-free bug in WhatsApp exploit poc|
 |233|2023-03-29T03:09:18Z|CVE-2019-1040|https://github.com/Ridter/CVE-2019-1040|CVE-2019-1040 with Exchange|
 |347|2023-02-18T05:28:25Z|bluekeep_CVE-2019-0708_poc_to_exploit|https://github.com/algo7/bluekeep_CVE-2019-0708_poc_to_exploit|An Attempt to Port BlueKeep PoC from @Ekultek to actual exploits|
-|171|2023-03-06T08:26:09Z|CVE-2019-3396_EXP|https://github.com/Yt1g3r/CVE-2019-3396_EXP|CVE-2019-3396 confluence SSTI RCE|
 |205|2023-03-28T14:48:30Z|cve-2019-5736-poc|https://github.com/q3k/cve-2019-5736-poc|Unweaponized Proof of Concept for CVE-2019-5736 (Docker escape)|
+|171|2023-03-06T08:26:09Z|CVE-2019-3396_EXP|https://github.com/Yt1g3r/CVE-2019-3396_EXP|CVE-2019-3396 confluence SSTI RCE|
 |183|2023-03-26T05:22:49Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |292|2022-08-26T13:16:46Z|bluekeep|https://github.com/0xeb-bp/bluekeep|Public work for CVE-2019-0708|
 |297|2022-12-17T16:04:03Z|cve-2019-1003000-jenkins-rce-poc|https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc|Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)|
@@ -183,10 +183,10 @@
 |503|2023-03-29T17:18:35Z|CVE-2018-15473-Exploit|https://github.com/Rhynorater/CVE-2018-15473-Exploit|Exploit written in Python for CVE-2018-15473 with threading and export formats|
 |483|2023-03-30T05:08:39Z|CVE-2018-9995_dvr_credentials|https://github.com/ezelf/CVE-2018-9995_dvr_credentials|(CVE-2018-9995) Get DVR Credentials|
 |355|2023-02-27T06:12:23Z|Exchange2domain|https://github.com/Ridter/Exchange2domain|CVE-2018-8581|
-|249|2023-02-12T08:42:50Z|CVE-2018-13379|https://github.com/milo2012/CVE-2018-13379|CVE-2018-13379|
 |488|2023-03-15T23:21:03Z|CVE-2018-10933|https://github.com/blacknbunny/CVE-2018-10933|Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)|
-|266|2023-01-10T09:29:05Z|CVE-2018-0802|https://github.com/rxwx/CVE-2018-0802|PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882)|
+|249|2023-02-12T08:42:50Z|CVE-2018-13379|https://github.com/milo2012/CVE-2018-13379|CVE-2018-13379|
 |404|2023-03-06T00:38:43Z|CVE-2018-8897|https://github.com/can1357/CVE-2018-8897|Arbitrary code execution with kernel privileges using CVE-2018-8897.|
+|266|2023-01-10T09:29:05Z|CVE-2018-0802|https://github.com/rxwx/CVE-2018-0802|PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882)|
 |293|2023-03-20T20:34:45Z|CVE-2018-8120|https://github.com/alpha1ab/CVE-2018-8120|CVE-2018-8120 Exploit for Win2003 Win2008 WinXP Win7 |
 |332|2023-03-28T14:53:13Z|CVE-2018-8581|https://github.com/WyAtu/CVE-2018-8581|CVE-2018-8581 | Microsoft Exchange Server Elevation of Privilege Vulnerability|
 |342|2022-12-12T15:30:26Z|CVE-2018-7600|https://github.com/a2u/CVE-2018-7600|💀Proof-of-Concept for CVE-2018-7600 Drupal SA-CORE-2018-002|
