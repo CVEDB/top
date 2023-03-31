@@ -17,19 +17,19 @@
 |270|2023-03-27T03:39:13Z|CVE-2023-21752|https://github.com/Wh04m1001/CVE-2023-21752||
 |188|2023-03-29T16:37:21Z|CVE-2023-21608|https://github.com/hacksysteam/CVE-2023-21608|Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit|
 |275|2023-03-31T07:36:23Z|CVE-2023-23397-POC-Powershell|https://github.com/api0cradle/CVE-2023-23397-POC-Powershell||
-|172|2023-03-31T11:25:00Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
 |242|2023-03-23T12:29:03Z|CVE-2023-24055_PoC|https://github.com/alt3kx/CVE-2023-24055_PoC|CVE-2023-24055 PoC (KeePass 2.5x)|
+|172|2023-03-31T11:25:00Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
 |136|2023-03-30T19:36:51Z|CVE-2023-23397_EXPLOIT_0DAY|https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY|Exploit for the CVE-2023-23397|
-|75|2023-03-28T04:44:27Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |146|2023-03-31T10:51:39Z|CVE-2023-27326|https://github.com/Impalabs/CVE-2023-27326|VM Escape for Parallels Desktop <18.1.1|
+|75|2023-03-28T04:44:27Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |141|2023-03-30T19:14:07Z|CVE-2023-0179-PoC|https://github.com/TurtleARM/CVE-2023-0179-PoC||
 |87|2023-03-31T08:15:51Z|CVE-2023-22809-sudoedit-privesc|https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc|A script to automate privilege escalation with CVE-2023-22809 vulnerability|
 |66|2023-03-31T13:11:11Z|CVE-2023-23397|https://github.com/Trackflaw/CVE-2023-23397|Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email.|
 |88|2023-03-24T10:42:57Z|CVE-2023-25136|https://github.com/Christbowel/CVE-2023-25136|OpenSSH 9.1 vulnerability mass scan and exploit|
 |413|2023-03-31T08:10:59Z|TOP|https://github.com/hktalent/TOP|TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things|
 |80|2023-03-29T10:39:32Z|CVE-2023-0669|https://github.com/0xf4n9x/CVE-2023-0669|CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.|
-|94|2023-03-24T12:07:32Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
 |63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
+|94|2023-03-24T12:07:32Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
 |69|2023-03-28T14:55:51Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
 |66|2023-03-31T07:14:29Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
 |142|2023-03-31T17:32:05Z|evil_minio|https://github.com/AbelChe/evil_minio|EXP for CVE-2023-28434 MinIO unauthorized to RCE|
@@ -72,8 +72,8 @@
 |94|2023-03-09T11:35:41Z|CVE-2022-23131|https://github.com/jweny/CVE-2022-23131|cve-2022-23131 exp|
 |232|2023-02-23T12:44:11Z|CVE-2022-1388|https://github.com/horizon3ai/CVE-2022-1388|POC for CVE-2022-1388|
 |256|2023-03-23T09:37:45Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
-|186|2023-03-28T18:22:16Z|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
 |121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
+|186|2023-03-28T18:22:16Z|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
 |194|2023-02-02T00:58:48Z|CVE-2022-27666|https://github.com/plummm/CVE-2022-27666|Exploit for CVE-2022-27666|
 ## 2021
 |star|updated_at|name|url|des|
@@ -95,19 +95,19 @@
 |1557|2023-03-29T07:13:57Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
 |1051|2023-03-30T17:21:39Z|log4shell-vulnerable-app|https://github.com/christophetd/log4shell-vulnerable-app|Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).|
 |430|2023-02-17T21:09:51Z|CVE-2021-3156|https://github.com/stong/CVE-2021-3156|PoC for CVE-2021-3156 (sudo heap overflow)|
-|333|2023-03-22T08:50:11Z|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |552|2023-03-29T11:34:48Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
+|333|2023-03-22T08:50:11Z|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |136|2023-03-28T13:37:56Z|exprolog|https://github.com/herwonowr/exprolog|ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)|
 |205|2023-03-29T02:32:16Z|CVE-2021-41773|https://github.com/blasty/CVE-2021-41773|CVE-2021-41773 playground|
 |342|2023-03-15T08:56:59Z|CVE-2021-44228_scanner|https://github.com/CERTCC/CVE-2021-44228_scanner|Scanners for Jar files that may be vulnerable to CVE-2021-44228|
 |319|2023-03-28T12:39:04Z|Grafana-CVE-2021-43798|https://github.com/jas502n/Grafana-CVE-2021-43798|Grafana Unauthorized arbitrary file reading vulnerability|
 |165|2023-03-27T23:53:52Z|ProxyVulns|https://github.com/hosch3n/ProxyVulns|[ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.|
 |223|2023-03-28T13:35:39Z|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
-|335|2023-03-03T23:04:45Z|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
 |139|2022-12-08T12:21:45Z|CVE-2021-41773_CVE-2021-42013|https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013|CVE-2021-41773 CVE-2021-42013漏洞批量检测工具|
+|335|2023-03-03T23:04:45Z|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
+|432|2023-02-19T07:14:03Z|log4j-finder|https://github.com/fox-it/log4j-finder|Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)|
 |233|2023-03-28T13:36:24Z|laravel-exploits|https://github.com/ambionics/laravel-exploits|Exploit for CVE-2021-3129|
 |297|2023-03-20T09:00:12Z|CVE-2021-26084_Confluence|https://github.com/h3v0x/CVE-2021-26084_Confluence|Confluence Server Webwork OGNL injection|
-|432|2023-02-19T07:14:03Z|log4j-finder|https://github.com/fox-it/log4j-finder|Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)|
 ## 2020
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
