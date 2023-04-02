@@ -20,8 +20,8 @@
 |172|2023-03-31T11:25:00Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
 |242|2023-03-23T12:29:03Z|CVE-2023-24055_PoC|https://github.com/alt3kx/CVE-2023-24055_PoC|CVE-2023-24055 PoC (KeePass 2.5x)|
 |137|2023-04-02T04:37:25Z|CVE-2023-23397_EXPLOIT_0DAY|https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY|Exploit for the CVE-2023-23397|
-|147|2023-04-01T02:57:12Z|CVE-2023-27326|https://github.com/Impalabs/CVE-2023-27326|VM Escape for Parallels Desktop <18.1.1|
 |75|2023-03-28T04:44:27Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
+|147|2023-04-01T02:57:12Z|CVE-2023-27326|https://github.com/Impalabs/CVE-2023-27326|VM Escape for Parallels Desktop <18.1.1|
 |141|2023-03-30T19:14:07Z|CVE-2023-0179-PoC|https://github.com/TurtleARM/CVE-2023-0179-PoC||
 |89|2023-04-01T08:49:03Z|CVE-2023-22809-sudoedit-privesc|https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc|A script to automate privilege escalation with CVE-2023-22809 vulnerability|
 |66|2023-03-31T13:11:11Z|CVE-2023-23397|https://github.com/Trackflaw/CVE-2023-23397|Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email.|
@@ -37,8 +37,8 @@
 |27|2023-04-01T09:28:44Z|CVE-2023-28432|https://github.com/Mr-xn/CVE-2023-28432|CVE-2023-28434 nuclei templates|
 |54|2023-03-23T04:35:27Z|CVE-2023-21716|https://github.com/gyaansastra/CVE-2023-21716|A vulnerability within Microsoft Office's wwlib allows attackers to achieve remote code execution with the privileges of the victim that opens a malicious RTF document. The attacker could deliver this file as an email attachment (or other means).|
 |33|2023-03-31T01:00:25Z|CVE-2023-21716|https://github.com/Xnuvers007/CVE-2023-21716|RTF Crash POC Python 3.11 Windows 10|
-|61|2023-04-02T09:01:26Z|moc3ingbird|https://github.com/OpenL2D/moc3ingbird|MOC3ingbird Exploit for Live2D (CVE-2023-27566)|
 |52|2023-03-29T22:03:31Z|CVE-2023-21036|https://github.com/infobyte/CVE-2023-21036|Detection and sanitization for Acropalypse Now - CVE-2023-21036|
+|61|2023-04-02T09:01:26Z|moc3ingbird|https://github.com/OpenL2D/moc3ingbird|MOC3ingbird Exploit for Live2D (CVE-2023-27566)|
 |36|2023-03-31T08:31:17Z|CVE-2023-0179-PoC|https://github.com/H4K6/CVE-2023-0179-PoC|针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，尽管该利用在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。|
 |22|2023-03-29T18:42:17Z|CVE-2023-23397|https://github.com/ka7ana/CVE-2023-23397|Simple PoC in PowerShell for CVE-2023-23397|
 |29|2023-04-01T20:41:41Z|exploit-CVE-2023-23752|https://github.com/Acceis/exploit-CVE-2023-23752|Joomla! < 4.2.8 - Unauthenticated information disclosure|
@@ -73,8 +73,8 @@
 |232|2023-02-23T12:44:11Z|CVE-2022-1388|https://github.com/horizon3ai/CVE-2022-1388|POC for CVE-2022-1388|
 |256|2023-03-23T09:37:45Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
 |186|2023-03-28T18:22:16Z|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
-|121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
 |194|2023-02-02T00:58:48Z|CVE-2022-27666|https://github.com/plummm/CVE-2022-27666|Exploit for CVE-2022-27666|
+|121|2023-03-15T14:52:42Z|SpringShell|https://github.com/TheGejr/SpringShell|Spring4Shell - Spring Core RCE - CVE-2022-22965|
 ## 2021
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -92,7 +92,7 @@
 |738|2023-03-21T10:45:10Z|CVE-2021-40444|https://github.com/klezVirus/CVE-2021-40444|CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit|
 |823|2023-03-11T13:00:24Z|CVE-2021-31166|https://github.com/0vercl0k/CVE-2021-31166|Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.|
 |581|2023-04-01T14:07:26Z|CVE-2021-3156|https://github.com/worawit/CVE-2021-3156|Sudo Baron Samedit Exploit|
-|1556|2023-04-01T15:57:30Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
+|1557|2023-04-02T13:43:02Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
 |1051|2023-03-30T17:21:39Z|log4shell-vulnerable-app|https://github.com/christophetd/log4shell-vulnerable-app|Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).|
 |430|2023-02-17T21:09:51Z|CVE-2021-3156|https://github.com/stong/CVE-2021-3156|PoC for CVE-2021-3156 (sudo heap overflow)|
 |552|2023-03-29T11:34:48Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
@@ -230,8 +230,8 @@
 |180|2023-03-09T09:25:41Z|cve-2017-7494|https://github.com/betab0t/cve-2017-7494|Proof-of-Concept exploit for CVE-2017-7494(Samba RCE from a writable share)|
 |42|2023-01-28T03:12:16Z|CVE-2017-11882|https://github.com/starnightcyber/CVE-2017-11882|CVE-2017-11882 exploitation|
 |82|2023-03-09T07:06:53Z|CVE-2017-8759|https://github.com/Lz1y/CVE-2017-8759|CVE-2017-8759|
-|164|2023-02-25T01:03:53Z|RTF_11882_0802|https://github.com/Ridter/RTF_11882_0802|PoC for CVE-2018-0802 And CVE-2017-11882|
 |129|2023-02-28T07:16:39Z|cve-2017-7269|https://github.com/zcgonvh/cve-2017-7269|fixed msf module for cve-2017-7269|
+|164|2023-02-25T01:03:53Z|RTF_11882_0802|https://github.com/Ridter/RTF_11882_0802|PoC for CVE-2018-0802 And CVE-2017-11882|
 |179|2023-03-28T13:30:55Z|jboss-_CVE-2017-12149|https://github.com/yunxu1/jboss-_CVE-2017-12149|CVE-2017-12149 jboss反序列化 可回显|
 |62|2023-03-06T00:56:46Z|iis6-exploit-2017-CVE-2017-7269|https://github.com/g0rx/iis6-exploit-2017-CVE-2017-7269|iis6 exploit 2017 CVE-2017-7269|
 |98|2022-11-17T14:25:55Z|CVE-2017-11882-metasploit|https://github.com/0x09AL/CVE-2017-11882-metasploit|This is a Metasploit module which exploits CVE-2017-11882 using the POC released here : https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about.|
@@ -239,7 +239,7 @@
 |139|2023-03-25T10:29:57Z|CVE-2017-10271|https://github.com/c0mmand3rOpSec/CVE-2017-10271|WebLogic Exploit|
 |56|2022-06-12T07:10:35Z|Exploit-Development|https://github.com/wetw0rk/Exploit-Development|CVE-2020-8012, CVE-2016-10709, CVE-2017-17099, CVE-2017-18047, CVE-2019-1003000, CVE-2018-1999002|
 |266|2023-01-10T09:29:05Z|CVE-2018-0802|https://github.com/rxwx/CVE-2018-0802|PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882)|
-|102|2023-03-09T09:07:34Z|CVE-2017-0781|https://github.com/ojasookert/CVE-2017-0781|Blueborne CVE-2017-0781 Android heap overflow vulnerability|
+|50|2023-04-02T08:39:44Z|CVE-2017-1000353|https://github.com/vulhub/CVE-2017-1000353|jenkins CVE-2017-1000353 POC|
 ## 2016
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
