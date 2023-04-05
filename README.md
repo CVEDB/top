@@ -20,8 +20,8 @@
 |242|2023-04-04T19:27:45Z|CVE-2023-24055_PoC|https://github.com/alt3kx/CVE-2023-24055_PoC|CVE-2023-24055 PoC (KeePass 2.5x)|
 |173|2023-04-04T07:19:08Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
 |139|2023-04-03T14:58:38Z|CVE-2023-23397_EXPLOIT_0DAY|https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY|Exploit for the CVE-2023-23397|
-|75|2023-03-28T04:44:27Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |150|2023-04-05T20:01:53Z|CVE-2023-27326|https://github.com/Impalabs/CVE-2023-27326|VM Escape for Parallels Desktop <18.1.1|
+|75|2023-03-28T04:44:27Z|CVE-2023-25194|https://github.com/ohnonoyesyes/CVE-2023-25194||
 |141|2023-03-30T19:14:07Z|CVE-2023-0179-PoC|https://github.com/TurtleARM/CVE-2023-0179-PoC||
 |91|2023-04-05T13:13:22Z|CVE-2023-22809-sudoedit-privesc|https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc|A script to automate privilege escalation with CVE-2023-22809 vulnerability|
 |68|2023-04-04T13:16:40Z|CVE-2023-23397|https://github.com/Trackflaw/CVE-2023-23397|Simple PoC of the CVE-2023-23397 vulnerability with the payload sent by email.|
@@ -30,16 +30,16 @@
 |80|2023-03-29T10:39:32Z|CVE-2023-0669|https://github.com/0xf4n9x/CVE-2023-0669|CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.|
 |170|2023-04-05T03:46:16Z|evil_minio|https://github.com/AbelChe/evil_minio|EXP for CVE-2023-28434 MinIO unauthorized to RCE|
 |96|2023-04-04T03:38:57Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
-|63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
 |69|2023-04-04T11:05:34Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
+|63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
 |69|2023-03-28T14:55:51Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
 |32|2023-03-29T13:13:02Z|CVE-2023-27532|https://github.com/horizon3ai/CVE-2023-27532|POC for Veeam Backup and Replication CVE-2023-27532|
 |27|2023-04-01T09:28:44Z|CVE-2023-28432|https://github.com/Mr-xn/CVE-2023-28432|CVE-2023-28434 nuclei templates|
 |34|2023-04-04T03:39:11Z|CVE-2023-21716|https://github.com/Xnuvers007/CVE-2023-21716|RTF Crash POC Python 3.11 Windows 10|
 |54|2023-03-23T04:35:27Z|CVE-2023-21716|https://github.com/gyaansastra/CVE-2023-21716|A vulnerability within Microsoft Office's wwlib allows attackers to achieve remote code execution with the privileges of the victim that opens a malicious RTF document. The attacker could deliver this file as an email attachment (or other means).|
 |54|2023-04-05T19:26:50Z|CVE-2023-21036|https://github.com/infobyte/CVE-2023-21036|Detection and sanitization for Acropalypse Now - CVE-2023-21036|
-|61|2023-04-02T09:01:26Z|moc3ingbird|https://github.com/OpenL2D/moc3ingbird|MOC3ingbird Exploit for Live2D (CVE-2023-27566)|
 |23|2023-04-04T03:11:22Z|CVE-2023-23397|https://github.com/ka7ana/CVE-2023-23397|Simple PoC in PowerShell for CVE-2023-23397|
+|61|2023-04-02T09:01:26Z|moc3ingbird|https://github.com/OpenL2D/moc3ingbird|MOC3ingbird Exploit for Live2D (CVE-2023-27566)|
 |36|2023-03-31T08:31:17Z|CVE-2023-0179-PoC|https://github.com/H4K6/CVE-2023-0179-PoC|针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，尽管该利用在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。|
 |30|2023-04-03T07:12:40Z|exploit-CVE-2023-23752|https://github.com/Acceis/exploit-CVE-2023-23752|Joomla! < 4.2.8 - Unauthenticated information disclosure|
 ## 2022
@@ -63,8 +63,8 @@
 |370|2023-04-02T09:05:44Z|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
 |426|2023-04-04T09:11:47Z|CVE-2022-27254|https://github.com/nonamecoder/CVE-2022-27254|PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)|
 |240|2023-03-28T08:38:18Z|CVE-2022-0847|https://github.com/r1is/CVE-2022-0847|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”|
-|289|2023-03-02T11:36:05Z|CVE-2022-21971|https://github.com/0vercl0k/CVE-2022-21971|PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"|
 |253|2023-04-05T02:09:59Z|CVE-2022-39952|https://github.com/horizon3ai/CVE-2022-39952|POC for CVE-2022-39952|
+|289|2023-03-02T11:36:05Z|CVE-2022-21971|https://github.com/0vercl0k/CVE-2022-21971|PoC for CVE-2022-21971 "Windows Runtime Remote Code Execution Vulnerability"|
 |387|2023-04-05T20:57:58Z|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
 |281|2023-04-04T14:09:56Z|Spring4Shell-POC|https://github.com/reznok/Spring4Shell-POC|Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit|
 |110|2023-04-04T14:09:56Z|CVE-2022-22963|https://github.com/dinosn/CVE-2022-22963|CVE-2022-22963 PoC |
