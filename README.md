@@ -30,7 +30,7 @@
 |79|2023-04-09T03:13:18Z|CVE-2023-0669|https://github.com/0xf4n9x/CVE-2023-0669|CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.|
 |103|2023-04-11T17:43:26Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
 |177|2023-04-11T07:22:25Z|evil_minio|https://github.com/AbelChe/evil_minio|EXP for CVE-2023-28434 MinIO unauthorized to RCE|
-|97|2023-04-11T22:17:07Z|CVE-2023-0179-PoC|https://github.com/H4K6/CVE-2023-0179-PoC|针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。|
+|98|2023-04-11T23:02:54Z|CVE-2023-0179-PoC|https://github.com/H4K6/CVE-2023-0179-PoC|针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。|
 |73|2023-04-09T09:01:21Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
 |63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
 |69|2023-03-28T14:55:51Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
