@@ -13,7 +13,7 @@
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |366|2023-04-10T22:13:04Z|Windows_LPE_AFD_CVE-2023-21768|https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768|LPE exploit for CVE-2023-21768|
-|506|2023-04-11T14:58:31Z|CVE-2023-21839|https://github.com/4ra1n/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
+|507|2023-04-12T07:41:54Z|CVE-2023-21839|https://github.com/4ra1n/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
 |271|2023-04-11T13:56:23Z|CVE-2023-21752|https://github.com/Wh04m1001/CVE-2023-21752||
 |286|2023-04-11T21:12:14Z|CVE-2023-23397-POC-Powershell|https://github.com/api0cradle/CVE-2023-23397-POC-Powershell||
 |191|2023-04-11T07:28:28Z|CVE-2023-21608|https://github.com/hacksysteam/CVE-2023-21608|Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit|
@@ -29,8 +29,8 @@
 |417|2023-04-07T07:11:34Z|TOP|https://github.com/hktalent/TOP|TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things|
 |79|2023-04-09T03:13:18Z|CVE-2023-0669|https://github.com/0xf4n9x/CVE-2023-0669|CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.|
 |103|2023-04-11T17:43:26Z|nullmap|https://github.com/SamuelTulach/nullmap|Using CVE-2023-21768 to manual map kernel mode driver |
+|120|2023-04-12T07:52:42Z|CVE-2023-0179-PoC|https://github.com/H4K6/CVE-2023-0179-PoC|针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。|
 |177|2023-04-11T07:22:25Z|evil_minio|https://github.com/AbelChe/evil_minio|EXP for CVE-2023-28434 MinIO unauthorized to RCE|
-|116|2023-04-12T05:39:59Z|CVE-2023-0179-PoC|https://github.com/H4K6/CVE-2023-0179-PoC|针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。|
 |73|2023-04-09T09:01:21Z|CVE-2023-27532|https://github.com/sfewer-r7/CVE-2023-27532|Exploit for CVE-2023-27532 against Veeam Backup & Replication|
 |63|2023-03-22T22:48:35Z|CVE-2023-24055|https://github.com/deetl/CVE-2023-24055|POC and Scanner for CVE-2023-24055|
 |69|2023-03-28T14:55:51Z|CVE-2023-22960|https://github.com/t3l3machus/CVE-2023-22960|This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.|
@@ -111,11 +111,11 @@
 ## 2020
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|3719|2023-04-12T01:26:36Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|3720|2023-04-12T08:02:56Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
 |1662|2023-04-11T12:43:02Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |1570|2023-04-09T02:05:26Z|CVE-2020-1472|https://github.com/SecuraBV/CVE-2020-1472|Test tool for CVE-2020-1472|
 |1244|2023-04-03T10:23:47Z|CVE-2020-0796|https://github.com/danigargu/CVE-2020-0796|CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost|
-|1014|2023-04-09T18:14:23Z|CVE-2020-1472|https://github.com/dirkjanm/CVE-2020-1472|PoC for Zerologon - all research credits go to Tom Tervoort of Secura|
+|1015|2023-04-12T07:23:27Z|CVE-2020-1472|https://github.com/dirkjanm/CVE-2020-1472|PoC for Zerologon - all research credits go to Tom Tervoort of Secura|
 |275|2023-03-20T07:13:20Z|CVE-2020-14882|https://github.com/jas502n/CVE-2020-14882|CVE-2020–14882、CVE-2020–14883|
 |313|2023-04-04T02:29:49Z|cve-2020-0688|https://github.com/Ridter/cve-2020-0688|cve-2020-0688|
 |633|2023-03-21T02:33:58Z|SMBGhost|https://github.com/ly4k/SMBGhost|Scanner for CVE-2020-0796 - SMBv3 RCE|
@@ -146,7 +146,7 @@
 |---|---|---|---|---|
 |1662|2023-04-11T12:43:02Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |1762|2023-04-12T00:44:38Z|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
-|3719|2023-04-12T01:26:36Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|3720|2023-04-12T08:02:56Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
 |1134|2023-03-11T04:44:39Z|BlueKeep|https://github.com/Ekultek/BlueKeep|Proof of concept for CVE-2019-0708|
 |609|2023-04-02T13:16:41Z|CVE-2019-5736-PoC|https://github.com/Frichetten/CVE-2019-5736-PoC|PoC for CVE-2019-5736|
 |485|2023-03-23T15:24:59Z|CVE-2019-0708|https://github.com/n1xbyte/CVE-2019-0708|dump|
@@ -179,8 +179,8 @@
 |---|---|---|---|---|
 |1662|2023-04-11T12:43:02Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |489|2023-04-01T05:31:47Z|CVE-2018-8120|https://github.com/unamer/CVE-2018-8120|CVE-2018-8120 Windows LPE exploit|
-|485|2023-03-13T14:23:06Z|CVE-2018-20250|https://github.com/WyAtu/CVE-2018-20250|exp for https://research.checkpoint.com/extracting-code-execution-from-winrar|
 |504|2023-04-02T02:36:44Z|CVE-2018-15473-Exploit|https://github.com/Rhynorater/CVE-2018-15473-Exploit|Exploit written in Python for CVE-2018-15473 with threading and export formats|
+|485|2023-03-13T14:23:06Z|CVE-2018-20250|https://github.com/WyAtu/CVE-2018-20250|exp for https://research.checkpoint.com/extracting-code-execution-from-winrar|
 |483|2023-04-07T01:51:43Z|CVE-2018-9995_dvr_credentials|https://github.com/ezelf/CVE-2018-9995_dvr_credentials|(CVE-2018-9995) Get DVR Credentials|
 |358|2023-04-10T07:16:47Z|Exchange2domain|https://github.com/Ridter/Exchange2domain|CVE-2018-8581|
 |488|2023-03-15T23:21:03Z|CVE-2018-10933|https://github.com/blacknbunny/CVE-2018-10933|Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)|
@@ -206,7 +206,7 @@
 |104|2023-03-18T17:51:30Z|CVE-2018-7600|https://github.com/pimps/CVE-2018-7600|Exploit for Drupal 7 <= 7.57 CVE-2018-7600|
 |220|2023-01-02T16:14:21Z|poc_CVE-2018-1002105|https://github.com/evict/poc_CVE-2018-1002105|PoC for CVE-2018-1002105.|
 |260|2023-04-04T02:31:05Z|credssp|https://github.com/preempt/credssp|A code demonstrating CVE-2018-0886|
-|133|2022-11-09T18:00:34Z|CVE-2018-2894|https://github.com/LandGrey/CVE-2018-2894|CVE-2018-2894 WebLogic Unrestricted File Upload Lead To RCE Check Script|
+|102|2023-03-21T07:03:47Z|CVE-2018-2893|https://github.com/pyn3rd/CVE-2018-2893|CVE-2018-2893-PoC|
 ## 2017
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
