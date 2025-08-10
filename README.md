@@ -31,8 +31,8 @@
 |232|2025-04-21T10:47:13Z|CVE-2023-20887|https://github.com/sinsinology/CVE-2023-20887|VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)|
 |226|2025-07-14T12:38:34Z|CVE-2023-3519|https://github.com/BishopFox/CVE-2023-3519|RCE exploit for CVE-2023-3519|
 |240|2025-05-12T12:29:41Z|CVE-2023-7028|https://github.com/Vozec/CVE-2023-7028|This repository presents a proof-of-concept of CVE-2023-7028|
-|180|2025-07-20T20:35:31Z|CVE-2023-28252|https://github.com/fortra/CVE-2023-28252||
 |138|2025-06-27T16:08:19Z|CVE-2023-34362|https://github.com/horizon3ai/CVE-2023-34362|MOVEit CVE-2023-34362|
+|180|2025-07-20T20:35:31Z|CVE-2023-28252|https://github.com/fortra/CVE-2023-28252||
 |237|2025-07-30T02:37:57Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
 |204|2025-07-29T17:54:56Z|CVE-2023-46747-RCE|https://github.com/W01fh4cker/CVE-2023-46747-RCE|exploit for f5-big-ip RCE cve-2023-46747|
 |284|2025-07-28T18:42:39Z|CVE-2023-25690-POC|https://github.com/dhmosfunk/CVE-2023-25690-POC|CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.|
@@ -71,20 +71,20 @@
 |277|2025-05-28T16:51:52Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
 |116|2024-12-14T15:02:55Z|CVE-2022-22963|https://github.com/dinosn/CVE-2022-22963|CVE-2022-22963 PoC |
 |282|2025-06-08T23:32:35Z|VMware-CVE-2022-22954|https://github.com/sherlocksecurity/VMware-CVE-2022-22954|POC for VMWARE CVE-2022-22954|
-|408|2025-08-07T15:20:07Z|CVE-2022-38694_unlock_bootloader|https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader|This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692|
-|183|2024-11-21T13:26:19Z|CVE-2022-0778|https://github.com/drago-96/CVE-2022-0778|Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt|
+|408|2025-08-10T00:17:26Z|CVE-2022-38694_unlock_bootloader|https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader|This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692|
 |199|2025-08-05T16:45:12Z|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
+|183|2024-11-21T13:26:19Z|CVE-2022-0778|https://github.com/drago-96/CVE-2022-0778|Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt|
 |240|2025-04-17T02:16:27Z|CVE-2022-20699|https://github.com/Audiobahn/CVE-2022-20699|Cisco Anyconnect VPN unauth RCE (rwx stack)|
 ## 2021
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |1381|2025-08-08T00:14:00Z|noPac|https://github.com/cube0x0/noPac|CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.|
-|1921|2025-08-08T06:18:42Z|CVE-2021-1675|https://github.com/cube0x0/CVE-2021-1675|C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527|
+|1922|2025-08-09T08:25:42Z|CVE-2021-1675|https://github.com/cube0x0/CVE-2021-1675|C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527|
 |2014|2025-08-05T02:38:48Z|CVE-2021-4034|https://github.com/berdav/CVE-2021-4034|CVE-2021-4034 1day|
-|1648|2025-08-07T14:25:17Z|CVE-2021-40444|https://github.com/lockedbyte/CVE-2021-40444|CVE-2021-40444 PoC|
+|1649|2025-08-09T11:22:47Z|CVE-2021-40444|https://github.com/lockedbyte/CVE-2021-40444|CVE-2021-40444 PoC|
 |1094|2025-08-03T16:56:32Z|CVE-2021-4034|https://github.com/arthepsy/CVE-2021-4034|PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)|
-|1067|2025-08-08T18:45:50Z|CVE-2021-1675|https://github.com/calebstewart/CVE-2021-1675|Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)|
 |986|2025-07-14T12:47:07Z|CVE-2021-3156|https://github.com/blasty/CVE-2021-3156||
+|1067|2025-08-08T18:45:50Z|CVE-2021-1675|https://github.com/calebstewart/CVE-2021-1675|Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)|
 |496|2025-07-23T15:55:56Z|CVE-2021-21972|https://github.com/NS-Sp4ce/CVE-2021-21972|CVE-2021-21972 Exploit|
 |1025|2025-07-29T01:39:07Z|sam-the-admin|https://github.com/safebuffer/sam-the-admin|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
 |420|2025-07-26T18:04:20Z|CVE-2021-1732-Exploit|https://github.com/KaLendsi/CVE-2021-1732-Exploit|CVE-2021-1732 Exploit|
@@ -93,7 +93,7 @@
 |829|2025-07-31T10:12:38Z|CVE-2021-31166|https://github.com/0vercl0k/CVE-2021-31166|Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.|
 |860|2025-08-07T15:30:37Z|CVE-2021-44228-Scanner|https://github.com/logpresso/CVE-2021-44228-Scanner|Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228|
 |913|2025-08-07T18:05:10Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
-|1835|2025-08-08T20:14:30Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
+|1836|2025-08-09T13:13:17Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
 |428|2025-08-04T09:48:38Z|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |333|2025-03-18T15:11:20Z|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
 |1122|2025-07-08T00:54:57Z|log4shell-vulnerable-app|https://github.com/christophetd/log4shell-vulnerable-app|Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).|
@@ -107,7 +107,7 @@
 |263|2025-08-02T12:21:05Z|CVE-2021-21972|https://github.com/horizon3ai/CVE-2021-21972|Proof of Concept Exploit for vCenter CVE-2021-21972|
 |273|2025-07-28T20:05:51Z|CVE-2021-36260|https://github.com/Aiminsun/CVE-2021-36260|command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.|
 |349|2025-07-16T20:42:56Z|CVE-2021-44228_scanner|https://github.com/CERTCC/CVE-2021-44228_scanner|Scanners for Jar files that may be vulnerable to CVE-2021-44228|
-|116|2025-07-22T10:06:03Z|proxyshell|https://github.com/horizon3ai/proxyshell|Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207|
+|286|2025-08-08T02:06:43Z|CVE-2021-34527|https://github.com/JohnHammond/CVE-2021-34527||
 ## 2020
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
@@ -138,8 +138,8 @@
 |245|2025-08-01T04:47:06Z|CVE-2020-0041|https://github.com/bluefrostsecurity/CVE-2020-0041|Exploits for Android Binder bug CVE-2020-0041|
 |337|2024-08-12T19:56:40Z|chainoffools|https://github.com/kudelskisecurity/chainoffools|A PoC for CVE-2020-0601|
 |339|2025-07-12T18:13:08Z|CVE-2020-0683|https://github.com/padovah4ck/CVE-2020-0683|CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege|
-|485|2025-07-28T15:48:02Z|CVE-2020-15368|https://github.com/stong/CVE-2020-15368|CVE-2020-15368, aka "How to exploit a vulnerable driver"|
 |397|2025-08-08T02:57:54Z|Ghostcat-CNVD-2020-10487|https://github.com/00theway/Ghostcat-CNVD-2020-10487|Ghostcat read file/code execute,CNVD-2020-10487(CVE-2020-1938) |
+|491|2025-08-09T13:35:40Z|CVE-2020-15368|https://github.com/stong/CVE-2020-15368|CVE-2020-15368, aka "How to exploit a vulnerable driver"|
 |121|2025-03-11T04:41:00Z|CVE-2020-11651-poc|https://github.com/jasperla/CVE-2020-11651-poc|PoC exploit of CVE-2020-11651 and CVE-2020-11652|
 ## 2019
 |star|updated_at|name|url|des|
@@ -157,8 +157,8 @@
 |350|2025-06-30T09:54:56Z|COMahawk|https://github.com/apt69/COMahawk|Privilege Escalation: Weaponizing CVE-2019-1405 and CVE-2019-1322|
 |363|2025-02-22T18:04:27Z|CVE-2019-11510|https://github.com/projectzeroindia/CVE-2019-11510|Exploit for Arbitrary File Read on Pulse Secure SSL VPN (CVE-2019-11510)|
 |369|2025-05-25T18:40:12Z|CVE-2019-19781|https://github.com/projectzeroindia/CVE-2019-19781|Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]|
-|133|2025-07-21T10:32:14Z|CVE-2019-0604|https://github.com/linhlhq/CVE-2019-0604|CVE-2019-0604|
 |331|2025-06-07T14:17:34Z|CVE-2019-13272|https://github.com/jas502n/CVE-2019-13272|Linux 4.10 < 5.1.17 PTRACE_TRACEME local root|
+|133|2025-07-21T10:32:14Z|CVE-2019-0604|https://github.com/linhlhq/CVE-2019-0604|CVE-2019-0604|
 |625|2025-05-18T12:22:41Z|CVE-2019-11708|https://github.com/0vercl0k/CVE-2019-11708|Full exploit chain (CVE-2019-11708 & CVE-2019-9810) against Firefox on Windows 64-bit.|
 |359|2025-07-31T17:54:57Z|CVE-2019-18935|https://github.com/noperator/CVE-2019-18935|RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.|
 |239|2025-07-21T10:33:20Z|CVE-2019-0841|https://github.com/rogue-kdc/CVE-2019-0841|PoC code for CVE-2019-0841 Privilege Escalation vulnerability|
@@ -243,7 +243,7 @@
 ## 2016
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|981|2025-08-01T02:09:25Z|CVE-2016-5195|https://github.com/timwr/CVE-2016-5195|CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android|
+|982|2025-08-09T04:18:40Z|CVE-2016-5195|https://github.com/timwr/CVE-2016-5195|CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android|
 |893|2025-07-30T11:31:48Z|dirtycow|https://github.com/firefart/dirtycow|Dirty Cow exploit - CVE-2016-5195|
 |2051|2025-08-03T04:17:12Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |324|2025-05-28T17:17:42Z|CVE-2016-0051|https://github.com/koczkatamas/CVE-2016-0051|EoP (Win7) & BSoD (Win10) PoC for CVE-2016-0051 (MS-016)|
@@ -262,8 +262,8 @@
 |53|2025-02-12T04:00:36Z|cve-2016-1764|https://github.com/moloch--/cve-2016-1764|Extraction of iMessage Data via XSS|
 |69|2025-03-01T10:01:35Z|CVE-2016-3714|https://github.com/Hood3dRob1n/CVE-2016-3714|ImaegMagick Code Execution (CVE-2016-3714)|
 |108|2025-08-09T00:12:07Z|jscpwn|https://github.com/saelo/jscpwn|PoC exploit for CVE-2016-4622|
-|69|2025-08-03T18:37:37Z|Exploit-Development|https://github.com/wetw0rk/Exploit-Development|CVE-2020-8012, CVE-2016-10709, CVE-2017-17099, CVE-2017-18047, CVE-2019-1003000, CVE-2018-1999002|
 |99|2025-07-16T00:50:19Z|PegasusX|https://github.com/jndok/PegasusX|OS X 10.11.6 LPE PoC for CVE-2016-4655 / CVE-2016-4656|
+|69|2025-08-03T18:37:37Z|Exploit-Development|https://github.com/wetw0rk/Exploit-Development|CVE-2020-8012, CVE-2016-10709, CVE-2017-17099, CVE-2017-18047, CVE-2019-1003000, CVE-2018-1999002|
 |45|2024-08-12T19:21:36Z|cve-2016-0040|https://github.com/Rootkitsmm-zz/cve-2016-0040|Exploiting CVE-2016-0040   uninitialized pointer|
 |268|2025-07-31T04:38:34Z|VIKIROOT|https://github.com/hyln9/VIKIROOT|CVE-2016-5195 (Dirty COW) PoC for Android 6.0.1 Marshmallow|
 |53|2024-08-12T19:26:30Z|exploit-CVE-2016-6515|https://github.com/opsxcq/exploit-CVE-2016-6515|OpenSSH remote DOS exploit and vulnerable container|
@@ -315,8 +315,8 @@
 |324|2025-07-30T12:25:13Z|pacemaker|https://github.com/Lekensteyn/pacemaker|Heartbleed (CVE-2014-0160) client exploit|
 |149|2025-04-17T00:44:45Z|CVE-2014-7911_poc|https://github.com/retme7/CVE-2014-7911_poc|Local root exploit for Nexus5 Android 4.4.4(KTU84P)|
 |451|2025-06-04T05:54:18Z|heartbleeder|https://github.com/titanous/heartbleeder|OpenSSL CVE-2014-0160 Heartbleed vulnerability test|
-|194|2025-07-12T09:44:00Z|cve-2014-0038|https://github.com/saelo/cve-2014-0038|Linux local root exploit for CVE-2014-0038|
 |215|2025-07-30T02:54:59Z|exploit-CVE-2014-6271|https://github.com/opsxcq/exploit-CVE-2014-6271|Shellshock exploit + vulnerable environment|
+|194|2025-07-12T09:44:00Z|cve-2014-0038|https://github.com/saelo/cve-2014-0038|Linux local root exploit for CVE-2014-0038|
 |570|2025-06-03T18:45:00Z|heartbleed-masstest|https://github.com/musalbas/heartbleed-masstest|Multi-threaded tool for scanning many hosts for CVE-2014-0160.|
 |163|2025-08-01T08:07:47Z|heartbleed-poc|https://github.com/sensepost/heartbleed-poc|Test for SSL heartbeat vulnerability (CVE-2014-0160)|
 |95|2025-04-17T00:44:46Z|CVE-2014-4322_poc|https://github.com/retme7/CVE-2014-4322_poc|Gain privileges:system -> root,as a part of  https://github.com/retme7/CVE-2014-7911_poc|
