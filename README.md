@@ -20,8 +20,8 @@
 |388|2025-06-27T16:12:08Z|CVE-2023-4911|https://github.com/leesh3288/CVE-2023-4911|PoC for CVE-2023-4911|
 |404|2025-08-19T01:53:18Z|CVE-2023-0386|https://github.com/xkaneiki/CVE-2023-0386|CVE-2023-0386在ubuntu22.04上的提权|
 |317|2025-08-19T10:34:05Z|CVE-2023-21752|https://github.com/Wh04m1001/CVE-2023-21752||
-|96|2025-08-21T17:10:52Z|CVE-2023-21839|https://github.com/ASkyeye/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
-|646|2025-08-01T11:50:21Z|keepass-password-dumper|https://github.com/vdohney/keepass-password-dumper|Original PoC for CVE-2023-32784|
+|97|2025-08-22T14:30:44Z|CVE-2023-21839|https://github.com/ASkyeye/CVE-2023-21839|Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)|
+|645|2025-08-22T18:24:18Z|keepass-password-dumper|https://github.com/vdohney/keepass-password-dumper|Original PoC for CVE-2023-32784|
 |274|2025-08-20T16:52:26Z|CVE-2023-21608|https://github.com/hacksysteam/CVE-2023-21608|Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit|
 |317|2025-08-21T03:24:09Z|CVE-2023-4863|https://github.com/mistymntncop/CVE-2023-4863||
 |234|2025-08-19T10:34:13Z|CVE-2023-36874|https://github.com/Wh04m1001/CVE-2023-36874||
@@ -34,12 +34,12 @@
 |138|2025-06-27T16:08:19Z|CVE-2023-34362|https://github.com/horizon3ai/CVE-2023-34362|MOVEit CVE-2023-34362|
 |180|2025-07-20T20:35:31Z|CVE-2023-28252|https://github.com/fortra/CVE-2023-28252||
 |285|2025-08-18T22:45:59Z|CVE-2023-25690-POC|https://github.com/dhmosfunk/CVE-2023-25690-POC|CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.|
-|237|2025-08-21T17:10:52Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
+|238|2025-08-22T14:30:43Z|Weblogic-CVE-2023-21839|https://github.com/DXask88MA/Weblogic-CVE-2023-21839||
 |204|2025-07-29T17:54:56Z|CVE-2023-46747-RCE|https://github.com/W01fh4cker/CVE-2023-46747-RCE|exploit for f5-big-ip RCE cve-2023-46747|
 |150|2025-08-10T12:37:11Z|cve-2023-29360|https://github.com/Nero22k/cve-2023-29360|Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver|
 |233|2025-07-11T01:54:04Z|CVE-2023-29357|https://github.com/Chocapikk/CVE-2023-29357|Microsoft SharePoint Server Elevation of Privilege Vulnerability|
 |128|2025-06-30T01:07:56Z|CVE-2023-2640-CVE-2023-32629|https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629|GameOver(lay) Ubuntu Privilege Escalation|
-|171|2025-07-08T16:35:20Z|CVE-2023-25157|https://github.com/win3zz/CVE-2023-25157|CVE-2023-25157 - GeoServer SQL Injection - PoC|
+|172|2025-08-22T16:40:29Z|CVE-2023-25157|https://github.com/win3zz/CVE-2023-25157|CVE-2023-25157 - GeoServer SQL Injection - PoC|
 |161|2025-06-28T12:29:50Z|CVE-2023-23397_EXPLOIT_0DAY|https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY|Exploit for the CVE-2023-23397|
 |168|2025-04-23T19:05:26Z|CVE-2023-4911|https://github.com/RickdeJager/CVE-2023-4911|CVE-2023-4911 proof of concept|
 ## 2022
@@ -55,10 +55,10 @@
 |532|2025-05-21T06:09:46Z|OpenSSL-2022|https://github.com/NCSC-NL/OpenSSL-2022|Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3|
 |220|2025-06-05T05:50:47Z|Spring-Cloud-Gateway-CVE-2022-22947|https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947|CVE-2022-22947|
 |373|2025-08-05T06:44:32Z|CVE-2022-29464|https://github.com/hakivvi/CVE-2022-29464|WSO2 RCE (CVE-2022-29464) exploit and writeup.|
-|354|2025-08-21T17:10:51Z|CVE-2022-40684|https://github.com/horizon3ai/CVE-2022-40684|A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager|
+|355|2025-08-22T14:30:42Z|CVE-2022-40684|https://github.com/horizon3ai/CVE-2022-40684|A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager|
 |363|2025-07-08T02:33:48Z|CVE-2022-21907|https://github.com/ZZ-SOCMAP/CVE-2022-21907|HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907|
 |487|2025-08-13T23:20:13Z|CVE-2022-2588|https://github.com/Markakd/CVE-2022-2588|exploit for CVE-2022-2588|
-|623|2025-08-18T09:07:43Z|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
+|624|2025-08-22T06:07:50Z|CVE-2022-0847-DirtyPipe-Exploits|https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits|A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.|
 |388|2025-08-03T03:10:07Z|CVE-2022-39197|https://github.com/its-arun/CVE-2022-39197|CobaltStrike <= 4.7.1 RCE|
 |410|2025-07-31T18:09:24Z|CVE-2022-33679|https://github.com/Bdenneu/CVE-2022-33679|One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html|
 |281|2025-08-07T08:03:03Z|CVE-2022-0847|https://github.com/r1is/CVE-2022-0847|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”|
@@ -70,63 +70,63 @@
 |267|2025-08-01T14:37:38Z|CVE-2022-39952|https://github.com/horizon3ai/CVE-2022-39952|POC for CVE-2022-39952|
 |277|2025-05-28T16:51:52Z|cve-2022-27255|https://github.com/infobyte/cve-2022-27255||
 |116|2024-12-14T15:02:55Z|CVE-2022-22963|https://github.com/dinosn/CVE-2022-22963|CVE-2022-22963 PoC |
+|419|2025-08-22T23:12:02Z|CVE-2022-38694_unlock_bootloader|https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader|This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692|
 |282|2025-06-08T23:32:35Z|VMware-CVE-2022-22954|https://github.com/sherlocksecurity/VMware-CVE-2022-22954|POC for VMWARE CVE-2022-22954|
-|418|2025-08-20T14:01:41Z|CVE-2022-38694_unlock_bootloader|https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader|This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692|
 |200|2025-08-16T12:28:04Z|CVE-2022-21882|https://github.com/L4ys/CVE-2022-21882||
-|183|2024-11-21T13:26:19Z|CVE-2022-0778|https://github.com/drago-96/CVE-2022-0778|Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt|
 |239|2025-08-16T02:31:40Z|CVE-2022-20699|https://github.com/Audiobahn/CVE-2022-20699|Cisco Anyconnect VPN unauth RCE (rwx stack)|
+|183|2024-11-21T13:26:19Z|CVE-2022-0778|https://github.com/drago-96/CVE-2022-0778|Proof of concept for CVE-2022-0778, which triggers an infinite loop in parsing X.509 certificates due to a bug in BN_mod_sqrt|
 ## 2021
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|1379|2025-08-21T17:10:50Z|noPac|https://github.com/cube0x0/noPac|CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.|
+|1380|2025-08-22T14:30:41Z|noPac|https://github.com/cube0x0/noPac|CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.|
 |1922|2025-08-17T10:25:49Z|CVE-2021-1675|https://github.com/cube0x0/CVE-2021-1675|C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527|
 |2013|2025-08-21T13:14:26Z|CVE-2021-4034|https://github.com/berdav/CVE-2021-4034|CVE-2021-4034 1day|
 |1651|2025-08-15T09:39:38Z|CVE-2021-40444|https://github.com/lockedbyte/CVE-2021-40444|CVE-2021-40444 PoC|
 |1095|2025-08-18T09:07:41Z|CVE-2021-4034|https://github.com/arthepsy/CVE-2021-4034|PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)|
-|1066|2025-08-21T17:10:49Z|CVE-2021-1675|https://github.com/calebstewart/CVE-2021-1675|Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)|
+|1067|2025-08-22T14:30:40Z|CVE-2021-1675|https://github.com/calebstewart/CVE-2021-1675|Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)|
 |986|2025-07-14T12:47:07Z|CVE-2021-3156|https://github.com/blasty/CVE-2021-3156||
-|496|2025-08-21T17:10:49Z|CVE-2021-21972|https://github.com/NS-Sp4ce/CVE-2021-21972|CVE-2021-21972 Exploit|
-|1028|2025-08-21T17:10:50Z|sam-the-admin|https://github.com/safebuffer/sam-the-admin|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
+|497|2025-08-22T14:30:40Z|CVE-2021-21972|https://github.com/NS-Sp4ce/CVE-2021-21972|CVE-2021-21972 Exploit|
+|1030|2025-08-22T21:22:16Z|sam-the-admin|https://github.com/safebuffer/sam-the-admin|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
 |813|2025-07-30T20:23:38Z|CVE-2021-40444|https://github.com/klezVirus/CVE-2021-40444|CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit|
 |420|2025-07-26T18:04:20Z|CVE-2021-1732-Exploit|https://github.com/KaLendsi/CVE-2021-1732-Exploit|CVE-2021-1732 Exploit|
 |768|2025-08-19T10:33:58Z|CVE-2021-3156|https://github.com/worawit/CVE-2021-3156|Sudo Baron Samedit Exploit|
 |831|2025-08-19T15:23:37Z|CVE-2021-31166|https://github.com/0vercl0k/CVE-2021-31166|Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.|
 |862|2025-08-20T13:24:57Z|CVE-2021-44228-Scanner|https://github.com/logpresso/CVE-2021-44228-Scanner|Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228|
-|914|2025-08-17T15:10:16Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
-|1839|2025-08-17T17:13:21Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
+|915|2025-08-22T20:55:27Z|noPac|https://github.com/Ridter/noPac|Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user |
+|1838|2025-08-22T10:49:04Z|log4j-shell-poc|https://github.com/kozmer/log4j-shell-poc|A Proof-Of-Concept for the CVE-2021-44228 vulnerability. |
 |428|2025-08-04T09:48:38Z|CVE-2021-3493|https://github.com/briskets/CVE-2021-3493|Ubuntu OverlayFS Local Privesc|
 |333|2025-03-18T15:11:20Z|CVE-2021-1675-LPE|https://github.com/hlldz/CVE-2021-1675-LPE|Local Privilege Escalation Edition for CVE-2021-1675/CVE-2021-34527|
 |1124|2025-08-18T03:19:45Z|log4shell-vulnerable-app|https://github.com/christophetd/log4shell-vulnerable-app|Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).|
 |182|2025-08-21T20:19:12Z|exprolog|https://github.com/herwonowr/exprolog|ProxyLogon Full Exploit Chain PoC (CVE-2021–26855, CVE-2021–26857, CVE-2021–26858, CVE-2021–27065)|
-|436|2025-04-18T15:44:41Z|log4j-finder|https://github.com/fox-it/log4j-finder|Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)|
+|437|2025-08-22T20:55:51Z|log4j-finder|https://github.com/fox-it/log4j-finder|Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)|
 |437|2025-07-29T19:40:52Z|CVE-2021-3156|https://github.com/stong/CVE-2021-3156|PoC for CVE-2021-3156 (sudo heap overflow)|
 |176|2025-07-16T20:11:59Z|ProxyVulns|https://github.com/hosch3n/ProxyVulns|[ProxyLogon] CVE-2021-26855 & CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 & CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 & CVE-2021-34523 & CVE-2021-31207 Exploit Chains.|
 |276|2025-08-08T07:25:54Z|CVE-2021-22205|https://github.com/Al1ex/CVE-2021-22205|CVE-2021-22205& GitLab CE/EE RCE|
-|3430|2025-08-21T12:49:43Z|log4j-scan|https://github.com/fullhunt/log4j-scan|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |
+|3431|2025-08-22T20:55:46Z|log4j-scan|https://github.com/fullhunt/log4j-scan|A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |
 |148|2025-05-22T09:31:06Z|CVE-2021-41773_CVE-2021-42013|https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013|CVE-2021-41773 CVE-2021-42013漏洞批量检测工具|
-|262|2025-08-21T17:10:49Z|CVE-2021-21972|https://github.com/horizon3ai/CVE-2021-21972|Proof of Concept Exploit for vCenter CVE-2021-21972|
-|115|2025-08-21T17:10:50Z|proxyshell|https://github.com/horizon3ai/proxyshell|Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207|
-|273|2025-07-28T20:05:51Z|CVE-2021-36260|https://github.com/Aiminsun/CVE-2021-36260|command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.|
-|365|2025-07-31T08:02:21Z|Grafana-CVE-2021-43798|https://github.com/jas502n/Grafana-CVE-2021-43798|Grafana Unauthorized arbitrary file reading vulnerability|
+|263|2025-08-22T14:30:40Z|CVE-2021-21972|https://github.com/horizon3ai/CVE-2021-21972|Proof of Concept Exploit for vCenter CVE-2021-21972|
+|274|2025-08-22T20:25:07Z|CVE-2021-36260|https://github.com/Aiminsun/CVE-2021-36260|command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.|
+|116|2025-08-22T14:30:40Z|proxyshell|https://github.com/horizon3ai/proxyshell|Proof of Concept for CVE-2021-34473, CVE-2021-34523, and CVE-2021-31207|
+|288|2025-08-22T14:30:40Z|CVE-2021-34527|https://github.com/JohnHammond/CVE-2021-34527||
 ## 2020
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|4240|2025-08-21T13:54:22Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
-|1782|2025-08-21T17:10:47Z|CVE-2020-1472|https://github.com/SecuraBV/CVE-2020-1472|Test tool for CVE-2020-1472|
-|2053|2025-08-21T12:51:37Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
-|1328|2025-08-21T17:10:46Z|CVE-2020-0796|https://github.com/danigargu/CVE-2020-0796|CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost|
-|1250|2025-08-21T17:10:47Z|CVE-2020-1472|https://github.com/dirkjanm/CVE-2020-1472|PoC for Zerologon - all research credits go to Tom Tervoort of Secura|
+|4241|2025-08-22T23:07:02Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|1783|2025-08-22T14:30:38Z|CVE-2020-1472|https://github.com/SecuraBV/CVE-2020-1472|Test tool for CVE-2020-1472|
+|2054|2025-08-22T20:55:31Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
+|1329|2025-08-22T14:30:36Z|CVE-2020-0796|https://github.com/danigargu/CVE-2020-0796|CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost|
+|1251|2025-08-22T14:30:38Z|CVE-2020-1472|https://github.com/dirkjanm/CVE-2020-1472|PoC for Zerologon - all research credits go to Tom Tervoort of Secura|
 |288|2025-08-19T09:07:08Z|CVE-2020-14882|https://github.com/jas502n/CVE-2020-14882|CVE-2020–14882、CVE-2020–14883|
 |327|2025-08-16T18:46:43Z|cve-2020-0688|https://github.com/Ridter/cve-2020-0688|cve-2020-0688|
-|668|2025-08-21T17:10:48Z|zerologon|https://github.com/risksense/zerologon|Exploit for zerologon cve-2020-1472|
-|693|2025-08-21T17:10:45Z|SMBGhost|https://github.com/ly4k/SMBGhost|Scanner for CVE-2020-0796 - SMBv3 RCE|
+|669|2025-08-22T14:30:38Z|zerologon|https://github.com/risksense/zerologon|Exploit for zerologon cve-2020-1472|
+|694|2025-08-22T14:30:36Z|SMBGhost|https://github.com/ly4k/SMBGhost|Scanner for CVE-2020-0796 - SMBv3 RCE|
 |350|2025-08-16T18:11:25Z|CVEAC-2020|https://github.com/thesecretclub/CVEAC-2020|EasyAntiCheat Integrity check bypass by mimicking memory changes|
 |566|2025-08-06T08:41:57Z|CVE-2020-0796-RCE-POC|https://github.com/jamf/CVE-2020-0796-RCE-POC|CVE-2020-0796 Remote Code Execution POC|
 |373|2025-03-19T11:17:00Z|CVE-2020-5902|https://github.com/jas502n/CVE-2020-5902|CVE-2020-5902 BIG-IP|
 |132|2025-01-31T14:12:58Z|CVE_2020_2546|https://github.com/hktalent/CVE_2020_2546|CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3,|
-|293|2025-04-03T15:21:38Z|CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|Cnvd-2020-10487 / cve-2020-1938, scanner tool|
 |890|2025-08-21T16:06:33Z|CurveBall|https://github.com/ly4k/CurveBall|PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)|
-|221|2025-08-21T17:10:47Z|SAP_RECON|https://github.com/chipik/SAP_RECON|PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)|
+|293|2025-04-03T15:21:38Z|CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|https://github.com/bkfish/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner|Cnvd-2020-10487 / cve-2020-1938, scanner tool|
+|222|2025-08-22T14:30:38Z|SAP_RECON|https://github.com/chipik/SAP_RECON|PoC for CVE-2020-6287, CVE-2020-6286 (SAP RECON vulnerability)|
 |356|2025-08-02T14:39:59Z|CVE-2020-0688|https://github.com/zcgonvh/CVE-2020-0688|Exploit and detect tools for CVE-2020-0688|
 |336|2025-07-16T07:47:55Z|CVE-2020-2551|https://github.com/Y4er/CVE-2020-2551|Weblogic IIOP CVE-2020-2551|
 |250|2025-04-07T15:28:27Z|BlueGate|https://github.com/ly4k/BlueGate|PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE|
@@ -139,15 +139,15 @@
 |337|2024-08-12T19:56:40Z|chainoffools|https://github.com/kudelskisecurity/chainoffools|A PoC for CVE-2020-0601|
 |336|2025-08-21T16:06:34Z|CVE-2020-0683|https://github.com/padovah4ck/CVE-2020-0683|CVE-2020-0683 - Windows MSI “Installer service” Elevation of Privilege|
 |496|2025-08-20T15:36:12Z|CVE-2020-15368|https://github.com/stong/CVE-2020-15368|CVE-2020-15368, aka "How to exploit a vulnerable driver"|
-|397|2025-08-21T17:10:45Z|Ghostcat-CNVD-2020-10487|https://github.com/00theway/Ghostcat-CNVD-2020-10487|Ghostcat read file/code execute,CNVD-2020-10487(CVE-2020-1938) |
+|398|2025-08-22T14:30:36Z|Ghostcat-CNVD-2020-10487|https://github.com/00theway/Ghostcat-CNVD-2020-10487|Ghostcat read file/code execute,CNVD-2020-10487(CVE-2020-1938) |
 |121|2025-03-11T04:41:00Z|CVE-2020-11651-poc|https://github.com/jasperla/CVE-2020-11651-poc|PoC exploit of CVE-2020-11651 and CVE-2020-11652|
 ## 2019
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|4240|2025-08-21T13:54:22Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
-|2053|2025-08-21T12:51:37Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
+|4241|2025-08-22T23:07:02Z|exphub|https://github.com/zhzyker/exphub|Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340|
+|2054|2025-08-22T20:55:31Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |1831|2025-08-16T18:46:39Z|phuip-fpizdam|https://github.com/neex/phuip-fpizdam|Exploit for CVE-2019-11043|
-|1180|2025-08-21T17:10:43Z|BlueKeep|https://github.com/Ekultek/BlueKeep|Proof of concept for CVE-2019-0708|
+|1181|2025-08-22T14:30:34Z|BlueKeep|https://github.com/Ekultek/BlueKeep|Proof of concept for CVE-2019-0708|
 |494|2025-07-01T16:12:01Z|CVE-2019-0708|https://github.com/n1xbyte/CVE-2019-0708|dump|
 |391|2025-08-08T02:21:38Z|CVE-2019-0708|https://github.com/k8gege/CVE-2019-0708|3389远程桌面代码执行漏洞CVE-2019-0708批量检测工具(Rdpscan Bluekeep Check)|
 |651|2025-07-24T20:43:17Z|CVE-2019-5736-PoC|https://github.com/Frichetten/CVE-2019-5736-PoC|PoC for CVE-2019-5736|
@@ -164,42 +164,42 @@
 |315|2025-08-12T09:23:22Z|cve-2019-1003000-jenkins-rce-poc|https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc|Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)|
 |240|2025-08-16T18:45:34Z|CVE-2019-0841|https://github.com/rogue-kdc/CVE-2019-0841|PoC code for CVE-2019-0841 Privilege Escalation vulnerability|
 |201|2025-07-02T16:44:12Z|CVE-2019-11932|https://github.com/awakened1712/CVE-2019-11932|Simple POC for exploiting WhatsApp double-free bug in DDGifSlurp in decoding.c in libpl_droidsonroids_gif|
-|256|2024-11-22T06:44:14Z|CVE-2019-5786|https://github.com/exodusintel/CVE-2019-5786|FileReader Exploit|
+|255|2025-08-22T10:08:48Z|CVE-2019-5786|https://github.com/exodusintel/CVE-2019-5786|FileReader Exploit|
 |266|2025-07-01T09:57:07Z|CVE-2019-11932|https://github.com/dorkerdevil/CVE-2019-11932| double-free bug in WhatsApp exploit poc|
-|912|2025-08-21T09:46:59Z|rdpscan|https://github.com/robertdavidgraham/rdpscan|A quick scanner for the CVE-2019-0708 "BlueKeep" vulnerability.|
+|913|2025-08-22T18:47:37Z|rdpscan|https://github.com/robertdavidgraham/rdpscan|A quick scanner for the CVE-2019-0708 "BlueKeep" vulnerability.|
 |292|2025-04-17T00:39:15Z|bluekeep|https://github.com/0xeb-bp/bluekeep|Public work for CVE-2019-0708|
 |253|2025-08-02T19:12:57Z|CVE-2019-1040|https://github.com/Ridter/CVE-2019-1040|CVE-2019-1040 with Exchange|
 |190|2025-02-25T13:06:08Z|CVE-2019-2725|https://github.com/TopScrew/CVE-2019-2725|CVE-2019-2725命令回显+webshell上传+最新绕过|
 |229|2025-08-05T09:53:08Z|CVE-2019-9810|https://github.com/0vercl0k/CVE-2019-9810|Exploit for CVE-2019-9810 Firefox on Windows 64-bit.|
 |163|2025-04-21T07:23:59Z|CVE-2019-7609|https://github.com/LandGrey/CVE-2019-7609|exploit CVE-2019-7609(kibana RCE) on right way by python2 scripts|
-|194|2025-08-20T17:49:41Z|CVE-2019-16098|https://github.com/Barakat/CVE-2019-16098|Local privilege escalation PoC exploit for CVE-2019-16098|
+|195|2025-08-22T09:59:25Z|CVE-2019-16098|https://github.com/Barakat/CVE-2019-16098|Local privilege escalation PoC exploit for CVE-2019-16098|
 |210|2025-05-15T10:40:18Z|CVE-2019-0192|https://github.com/mpgn/CVE-2019-0192|RCE on Apache Solr using deserialization of untrusted data via jmx.serviceUrl|
 ## 2018
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
-|2053|2025-08-21T12:51:37Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
+|2054|2025-08-22T20:55:31Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |499|2025-07-07T17:06:14Z|CVE-2018-8120|https://github.com/rip1s/CVE-2018-8120|CVE-2018-8120 Windows LPE exploit|
-|492|2025-07-10T08:55:10Z|CVE-2018-20250|https://github.com/WyAtu/CVE-2018-20250|exp for https://research.checkpoint.com/extracting-code-execution-from-winrar|
+|493|2025-08-22T07:59:16Z|CVE-2018-20250|https://github.com/WyAtu/CVE-2018-20250|exp for https://research.checkpoint.com/extracting-code-execution-from-winrar|
 |527|2025-08-19T13:54:32Z|CVE-2018-15473-Exploit|https://github.com/Rhynorater/CVE-2018-15473-Exploit|Exploit written in Python for CVE-2018-15473 with threading and export formats|
 |374|2025-08-02T14:07:03Z|Exchange2domain|https://github.com/Ridter/Exchange2domain|CVE-2018-8581|
 |551|2025-08-10T16:32:09Z|CVE-2018-9995_dvr_credentials|https://github.com/ezelf/CVE-2018-9995_dvr_credentials|(CVE-2018-9995) Get DVR Credentials|
 |254|2025-07-11T08:23:23Z|CVE-2018-13379|https://github.com/milo2012/CVE-2018-13379|CVE-2018-13379|
 |498|2025-08-19T14:03:00Z|CVE-2018-10933|https://github.com/blacknbunny/CVE-2018-10933|Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)|
 |270|2025-07-21T11:08:43Z|CVE-2018-0802|https://github.com/rxwx/CVE-2018-0802|PoC Exploit for CVE-2018-0802 (and optionally CVE-2017-11882)|
-|351|2025-08-21T17:10:41Z|CVE-2018-7600|https://github.com/a2u/CVE-2018-7600|💀Proof-of-Concept for CVE-2018-7600 Drupal SA-CORE-2018-002|
+|352|2025-08-22T14:30:32Z|CVE-2018-7600|https://github.com/a2u/CVE-2018-7600|💀Proof-of-Concept for CVE-2018-7600 Drupal SA-CORE-2018-002|
 |419|2025-07-16T18:09:35Z|CVE-2018-8897|https://github.com/can1357/CVE-2018-8897|Arbitrary code execution with kernel privileges using CVE-2018-8897.|
-|332|2024-12-06T02:42:13Z|CVE-2018-8581|https://github.com/WyAtu/CVE-2018-8581|CVE-2018-8581 | Microsoft Exchange Server Elevation of Privilege Vulnerability|
 |294|2025-08-16T10:02:37Z|CVE-2018-8120|https://github.com/alpha1ab/CVE-2018-8120|CVE-2018-8120 Exploit for Win2003 Win2008 WinXP Win7 |
+|332|2024-12-06T02:42:13Z|CVE-2018-8581|https://github.com/WyAtu/CVE-2018-8581|CVE-2018-8581 | Microsoft Exchange Server Elevation of Privilege Vulnerability|
 |78|2024-08-12T19:37:50Z|CVE-2018-2628|https://github.com/shengqi158/CVE-2018-2628|CVE-2018-2628 & CVE-2018-2893|
 |517|2025-08-18T09:07:37Z|WinboxPoC|https://github.com/BasuCert/WinboxPoC|Proof of Concept of Winbox Critical Vulnerability (CVE-2018-14847)|
 |148|2025-07-21T10:31:48Z|CVE-2018-13382|https://github.com/milo2012/CVE-2018-13382|CVE-2018-13382|
 |140|2025-04-28T08:55:49Z|CVE-2018-8174_EXP|https://github.com/Yt1g3r/CVE-2018-8174_EXP|CVE-2018-8174_python|
-|167|2024-09-13T14:17:13Z|CVE-2018-3245|https://github.com/pyn3rd/CVE-2018-3245|CVE-2018-3245-PoC|
 |203|2025-04-03T06:50:25Z|CVE-2018-0296|https://github.com/yassineaboukir/CVE-2018-0296|Script to test for Cisco ASA path traversal vulnerability (CVE-2018-0296) and extract system information.|
 |302|2025-05-15T10:40:31Z|struts-pwn_CVE-2018-11776|https://github.com/mazen160/struts-pwn_CVE-2018-11776| An exploit for Apache Struts CVE-2018-11776|
+|168|2025-08-22T02:04:07Z|CVE-2018-3245|https://github.com/pyn3rd/CVE-2018-3245|CVE-2018-3245-PoC|
 |164|2025-02-17T09:35:37Z|cve-2018-8120|https://github.com/bigric3/cve-2018-8120||
+|134|2025-08-22T14:30:32Z|CVE-2018-7600|https://github.com/pimps/CVE-2018-7600|Exploit for Drupal 7 <= 7.57 CVE-2018-7600|
 |181|2025-06-05T10:26:01Z|CVE-2018-15982_EXP|https://github.com/Ridter/CVE-2018-15982_EXP|exp of CVE-2018-15982|
-|133|2025-08-21T17:10:41Z|CVE-2018-7600|https://github.com/pimps/CVE-2018-7600|Exploit for Drupal 7 <= 7.57 CVE-2018-7600|
 |122|2025-01-17T02:29:49Z|cve-2018-8453-exp|https://github.com/ze0r/cve-2018-8453-exp|cve-2018-8453 exp|
 |167|2025-07-25T06:36:56Z|RTF_11882_0802|https://github.com/Ridter/RTF_11882_0802|PoC for CVE-2018-0802 And CVE-2017-11882|
 |59|2024-12-06T22:03:54Z|bluetoothdPoC|https://github.com/rani-i/bluetoothdPoC|CVE-2018-4087 PoC|
@@ -212,11 +212,11 @@
 |---|---|---|---|---|
 |540|2025-08-21T16:06:07Z|CVE-2017-11882|https://github.com/Ridter/CVE-2017-11882|CVE-2017-11882 from https://github.com/embedi/CVE-2017-11882|
 |727|2025-08-13T11:30:43Z|CVE-2017-0199|https://github.com/bhdresh/CVE-2017-0199|Exploit toolkit CVE-2017-0199 - v4.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft Office RCE. It could generate a malicious RTF/PPSX file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.|
-|2053|2025-08-21T12:51:37Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
+|2054|2025-08-22T20:55:31Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |770|2025-07-18T14:44:30Z|spectre-attack|https://github.com/Eugnis/spectre-attack|Example of using revealed "Spectre" exploit (CVE-2017-5753 and CVE-2017-5715)|
 |495|2025-07-21T11:08:40Z|CVE-2017-11882|https://github.com/embedi/CVE-2017-11882|Proof-of-Concept exploits for CVE-2017-11882|
 |466|2025-07-22T11:29:48Z|CVE-2017-0785|https://github.com/ojasookert/CVE-2017-0785|Blueborne CVE-2017-0785 Android information leak vulnerability|
-|390|2025-08-21T17:10:40Z|CVE-2017-12617|https://github.com/cyberheartmi9/CVE-2017-12617|Apache Tomcat < 9.0.1 (Beta) / < 8.5.23 / < 8.0.47 / < 7.0.8 - JSP Upload Bypass / Remote Code Execution |
+|391|2025-08-22T14:30:32Z|CVE-2017-12617|https://github.com/cyberheartmi9/CVE-2017-12617|Apache Tomcat < 9.0.1 (Beta) / < 8.5.23 / < 8.0.47 / < 7.0.8 - JSP Upload Bypass / Remote Code Execution |
 |316|2025-05-25T23:00:26Z|CVE-2017-8759|https://github.com/bhdresh/CVE-2017-8759|Exploit toolkit CVE-2017-8759 - v1.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE. It could generate a malicious RTF file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.|
 |329|2025-04-08T05:12:14Z|CVE-2017-11882|https://github.com/rip1s/CVE-2017-11882|CVE-2017-11882 Exploit accepts over 17k bytes long command/code in maximum.|
 |382|2025-08-17T05:25:47Z|exploit-CVE-2017-7494|https://github.com/opsxcq/exploit-CVE-2017-7494|SambaCry exploit and vulnerable container (CVE-2017-7494)|
@@ -227,7 +227,7 @@
 |176|2025-08-19T10:33:40Z|CVE-2017-8759|https://github.com/vysecurity/CVE-2017-8759|CVE-2017-8759 - A vulnerability in the SOAP WDSL parser.|
 |256|2025-07-27T19:51:56Z|CVE-2017-8759-Exploit-sample|https://github.com/Voulnet/CVE-2017-8759-Exploit-sample|Running CVE-2017-8759 exploit sample.|
 |437|2025-08-17T06:03:39Z|struts-pwn|https://github.com/mazen160/struts-pwn|An exploit for Apache Struts CVE-2017-5638|
-|88|2025-08-21T17:10:39Z|iis6-exploit-2017-CVE-2017-7269|https://github.com/g0rx/iis6-exploit-2017-CVE-2017-7269|iis6 exploit 2017 CVE-2017-7269|
+|89|2025-08-22T14:30:31Z|iis6-exploit-2017-CVE-2017-7269|https://github.com/g0rx/iis6-exploit-2017-CVE-2017-7269|iis6 exploit 2017 CVE-2017-7269|
 |180|2025-04-17T00:46:17Z|cve-2017-7494|https://github.com/betab0t/cve-2017-7494|Proof-of-Concept exploit for CVE-2017-7494(Samba RCE from a writable share)|
 |189|2025-07-17T12:34:43Z|Jira-Scan|https://github.com/random-robbie/Jira-Scan|CVE-2017-9506 - SSRF|
 |135|2025-01-20T02:00:30Z|cve-2017-7269|https://github.com/zcgonvh/cve-2017-7269|fixed msf module for cve-2017-7269|
@@ -245,7 +245,7 @@
 |---|---|---|---|---|
 |983|2025-08-15T18:58:49Z|CVE-2016-5195|https://github.com/timwr/CVE-2016-5195|CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android|
 |894|2025-08-21T19:52:15Z|dirtycow|https://github.com/firefart/dirtycow|Dirty Cow exploit - CVE-2016-5195|
-|2053|2025-08-21T12:51:37Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
+|2054|2025-08-22T20:55:31Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |325|2025-08-17T13:32:50Z|CVE-2016-0051|https://github.com/koczkatamas/CVE-2016-0051|EoP (Win7) & BSoD (Win10) PoC for CVE-2016-0051 (MS-016)|
 |328|2025-08-10T07:06:14Z|CVE-2016-5195|https://github.com/gbonacini/CVE-2016-5195|A CVE-2016-5195 exploit example.|
 |403|2025-07-17T16:49:39Z|exploit-CVE-2016-10033|https://github.com/opsxcq/exploit-CVE-2016-10033|PHPMailer < 5.2.18 Remote Code Execution exploit and vulnerable container|
@@ -277,14 +277,14 @@
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |544|2025-05-15T10:44:13Z|CVE-2015-7547|https://github.com/fjserna/CVE-2015-7547|Proof of concept for CVE-2015-7547|
-|288|2025-06-02T02:38:32Z|CVE-2015-1701|https://github.com/hfiref0x/CVE-2015-1701|Win32k LPE vulnerability used in APT attack|
+|289|2025-08-22T03:40:06Z|CVE-2015-1701|https://github.com/hfiref0x/CVE-2015-1701|Win32k LPE vulnerability used in APT attack|
 |275|2025-07-29T19:41:17Z|iovyroot|https://github.com/dosomder/iovyroot|CVE-2015-1805 root tool|
 |204|2025-07-29T19:41:05Z|cve-2015-1538-1|https://github.com/jduck/cve-2015-1538-1|An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution|
 |133|2025-07-29T19:41:05Z|CVE-2015-3636|https://github.com/fi01/CVE-2015-3636|PoC code for 32 bit Android OS|
 |122|2025-08-20T18:21:14Z|cve-2015-6639|https://github.com/laginimaineb/cve-2015-6639|QSEE Privilege Escalation Exploit using PRDiag* commands (CVE-2015-6639)|
 |116|2025-07-29T19:41:01Z|PoCForCVE-2015-1528|https://github.com/secmob/PoCForCVE-2015-1528|I'll submit the poc after blackhat|
 |395|2024-10-22T06:19:36Z|tpwn|https://github.com/kpwn/tpwn|xnu local privilege escalation via cve-2015-???? & cve-2015-???? for 10.10.5, 0day at the time | poc or gtfo|
-|137|2025-08-21T17:10:39Z|exploit-CVE-2015-3306|https://github.com/t0kx/exploit-CVE-2015-3306|ProFTPd 1.3.5 - (mod_copy) Remote Command Execution exploit and vulnerable container|
+|138|2025-08-22T14:30:30Z|exploit-CVE-2015-3306|https://github.com/t0kx/exploit-CVE-2015-3306|ProFTPd 1.3.5 - (mod_copy) Remote Command Execution exploit and vulnerable container|
 |356|2025-07-29T19:41:22Z|ExtractKeyMaster|https://github.com/laginimaineb/ExtractKeyMaster|Exploit that extracts Qualcomm's KeyMaster keys using CVE-2015-6639 and CVE-2016-2431|
 |63|2025-01-06T02:39:01Z|cve-2015-5477|https://github.com/robertdavidgraham/cve-2015-5477|PoC exploit for CVE-2015-5477 BIND9 TKEY assertion failure|
 |69|2025-08-12T12:54:56Z|CVE-2015-6086|https://github.com/payatu/CVE-2015-6086|PoC for CVE-2015-6086|
@@ -310,7 +310,7 @@
 |star|updated_at|name|url|des|
 |---|---|---|---|---|
 |2315|2025-08-15T16:24:35Z|Heartbleed|https://github.com/FiloSottile/Heartbleed|A checker (site and tool) for CVE-2014-0160|
-|2053|2025-08-21T12:51:37Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
+|2054|2025-08-22T20:55:31Z|weblogicScanner|https://github.com/0xn0ne/weblogicScanner|weblogic 漏洞扫描工具。目前包含对以下漏洞的检测能力：CVE-2014-4210、CVE-2016-0638、CVE-2016-3510、CVE-2017-3248、CVE-2017-3506、CVE-2017-10271、CVE-2018-2628、CVE-2018-2893、CVE-2018-2894、CVE-2018-3191、CVE-2018-3245、CVE-2018-3252、CVE-2019-2618、CVE-2019-2725、CVE-2019-2729、CVE-2019-2890、CVE-2020-2551、CVE-2020-14750、CVE-2020-14882、CVE-2020-14883|
 |121|2025-04-17T00:44:39Z|CVE-2014-3153|https://github.com/timwr/CVE-2014-3153|CVE-2014-3153 aka towelroot|
 |323|2025-08-15T16:24:30Z|pacemaker|https://github.com/Lekensteyn/pacemaker|Heartbleed (CVE-2014-0160) client exploit|
 |149|2025-04-17T00:44:45Z|CVE-2014-7911_poc|https://github.com/retme7/CVE-2014-7911_poc|Local root exploit for Nexus5 Android 4.4.4(KTU84P)|
